@@ -44,22 +44,34 @@ See root_law_schema.md and root_cards_schema.md for field definitions and grep p
 
 ---
 
-## Refreshing the law data
+## Refreshing the data
 
-Requires Python 3.13+ and [uv](https://docs.astral.sh/uv/).
+Requires Python 3.13+ and [uv](https://docs.astral.sh/uv/). The card source lives in a
+pinned git submodule, so clone with `--recurse-submodules` (or run
+`git submodule update --init` after cloning).
 
 ```bash
-uv run python scrape_law.py
+uv run python scrape_law.py    # rebuild root_law.jsonl  (scrapes therootdatabase.com)
+uv run python build_cards.py   # rebuild root_cards.json (reads vendor/cards submodule)
 ```
 
-Output is written to `uploaded-files/root_law.jsonl`. Re-upload to the Project after refreshing.
+Output is written under `uploaded-files/`. Re-upload to the Project after refreshing.
 
-The card data (`root_cards.json`) is sourced from the [LederCards/cards](https://github.com/LederCards/cards) repo and updated manually.
+`build_cards.py` reads the [LederCards/cards](https://github.com/LederCards/cards) submodule
+pinned at `vendor/cards` and normalizes the Root card YAML to the schema. To pull newer card
+data, advance the pin and rebuild:
+
+```bash
+git submodule update --remote vendor/cards
+uv run python build_cards.py
+git add vendor/cards uploaded-files/root_cards.json   # commit pointer + regenerated data
+```
 
 ## Dependencies
 
-- `requests` — HTTP
-- `lxml` — HTML parsing
+- `requests` — HTTP (scrape_law.py)
+- `lxml` — HTML parsing (scrape_law.py)
+- `pyyaml` — YAML parsing (build_cards.py)
 
 ## License
 
