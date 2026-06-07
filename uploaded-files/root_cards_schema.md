@@ -15,9 +15,8 @@
 | `deck` | string\|null | `"Standard Deck"`, `"Exiles & Partisans Deck"`, `"Squires & Disciples Deck"`, or null |
 | `craftable` | boolean | Has a craft cost |
 | `category` | string | See below |
-| `expansion` | string | See below |
-| `set` | string | Usually mirrors `expansion`; kept for display. 2 known exceptions (ROOT-167, ROOT-170): prefer `expansion` |
-| `source_file` | string | Raw source filename |
+| `expansion` | string | The expansion a card is grouped under in the LederCards source (derived from `source_file`). Usually the faction's origin expansion; **not** the physical product box. See below |
+| `source_file` | string | Raw source YAML filename (the LederCards grouping `expansion` is derived from) |
 | `tags` | string[] | Freeform, unnormalized; treat as hints not controlled vocabulary |
  
 ## category values
@@ -30,6 +29,8 @@
 ## expansion values
  
 `Base Game` · `Exiles & Partisans Deck` · `Squires & Disciples Deck` · `Riverfolk Expansion` · `Underworld Expansion` · `Marauders Expansion` · `Homeland Expansion` · `Vagabond Pack` · `Clockwork Expansion` · `Landmarks`
+
+`expansion` reflects the LederCards source-file grouping, **not** the physical product box. For most faction cards this is the faction's origin expansion, but the source is internally inconsistent for cross-cutting cards: some Advanced Setup / hireling cards are filed by faction, others by the expansion that introduced them. For example both ROOT-167 (Lizard Cult Advanced Setup → `Riverfolk Expansion`, filed by faction) and ROOT-165 (Eyrie Advanced Setup → `Marauders Expansion`, filed by box/mechanic) ship in the Marauder Expansion box. Box/"which product to buy" data is not modeled — check `tags` for any raw hints from the source.
  
 ## Query examples
 

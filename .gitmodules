@@ -1,0 +1,3 @@
+[submodule "vendor/cards"]
+	path = vendor/cards
+	url = https://github.com/LederCards/cards.git
