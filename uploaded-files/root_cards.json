@@ -1,0 +1,6515 @@
+{
+  "game": "Root",
+  "source": "https://github.com/LederCards/cards",
+  "total_cards": 361,
+  "cards": [
+    {
+      "id": "ROOT-0",
+      "numeric_id": 0,
+      "name": "Builder",
+      "text": "Ignore your Disain for Trade when you craft.",
+      "image": "bird-builder",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "eyrie_leader",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Eyrie"
+      ]
+    },
+    {
+      "id": "ROOT-1",
+      "numeric_id": 1,
+      "name": "Charismatic",
+      "text": "You place two warriors, not one, each time you recruit.",
+      "image": "bird-charismatic",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "eyrie_leader",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Eyrie"
+      ]
+    },
+    {
+      "id": "ROOT-2",
+      "numeric_id": 2,
+      "name": "Commander",
+      "text": "As attacker in battle, you deal an extra hit.",
+      "image": "bird-commander",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "eyrie_leader",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Eyrie"
+      ]
+    },
+    {
+      "id": "ROOT-3",
+      "numeric_id": 3,
+      "name": "Despot",
+      "text": "Score a point if you remove at least one building or token in battle.",
+      "image": "bird-despot",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "eyrie_leader",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Eyrie"
+      ]
+    },
+    {
+      "id": "ROOT-4",
+      "numeric_id": 4,
+      "name": "Banker",
+      "text": "Spend any number of cards of the same suit to score equal VP.",
+      "image": "mole-banker",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "duchy_minister",
+      "expansion": "Underworld Expansion",
+      "set": "Underworld Expansion",
+      "source_file": "underworld",
+      "tags": [
+        "Underworld",
+        "Moles"
+      ]
+    },
+    {
+      "id": "ROOT-5",
+      "numeric_id": 5,
+      "name": "Baron of Dirt",
+      "text": "Score +1 VP per market on the map.",
+      "image": "mole-baronofdirt",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "duchy_minister",
+      "expansion": "Underworld Expansion",
+      "set": "Underworld Expansion",
+      "source_file": "underworld",
+      "tags": [
+        "Underworld",
+        "Moles"
+      ]
+    },
+    {
+      "id": "ROOT-6",
+      "numeric_id": 6,
+      "name": "Brigadier",
+      "text": "Take up to two moves OR initiate up to two battles.",
+      "image": "mole-brigadier",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "duchy_minister",
+      "expansion": "Underworld Expansion",
+      "set": "Underworld Expansion",
+      "source_file": "underworld",
+      "tags": [
+        "Underworld",
+        "Moles"
+      ]
+    },
+    {
+      "id": "ROOT-7",
+      "numeric_id": 7,
+      "name": "Captain",
+      "text": "Initiate a battle.",
+      "image": "mole-captain",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "duchy_minister",
+      "expansion": "Underworld Expansion",
+      "set": "Underworld Expansion",
+      "source_file": "underworld",
+      "tags": [
+        "Underworld",
+        "Moles"
+      ]
+    },
+    {
+      "id": "ROOT-8",
+      "numeric_id": 8,
+      "name": "Duchess of Mud",
+      "text": "Score +2 VP if all tunnels are on the map.",
+      "image": "mole-duchessofmud",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "duchy_minister",
+      "expansion": "Underworld Expansion",
+      "set": "Underworld Expansion",
+      "source_file": "underworld",
+      "tags": [
+        "Underworld",
+        "Moles"
+      ]
+    },
+    {
+      "id": "ROOT-9",
+      "numeric_id": 9,
+      "name": "Earl of Stone",
+      "text": "Score +1 VP per citadel on the map.",
+      "image": "mole-earlofstone",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "duchy_minister",
+      "expansion": "Underworld Expansion",
+      "set": "Underworld Expansion",
+      "source_file": "underworld",
+      "tags": [
+        "Underworld",
+        "Moles"
+      ]
+    },
+    {
+      "id": "ROOT-10",
+      "numeric_id": 10,
+      "name": "Foremole",
+      "text": "Reveal a card to place a building in any clearing you rule.",
+      "image": "mole-foremole",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "duchy_minister",
+      "expansion": "Underworld Expansion",
+      "set": "Underworld Expansion",
+      "source_file": "underworld",
+      "tags": [
+        "Underworld",
+        "Moles"
+      ]
+    },
+    {
+      "id": "ROOT-11",
+      "numeric_id": 11,
+      "name": "Marshal",
+      "text": "Take a move.",
+      "image": "mole-marshal",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "duchy_minister",
+      "expansion": "Underworld Expansion",
+      "set": "Underworld Expansion",
+      "source_file": "underworld",
+      "tags": [
+        "Underworld",
+        "Moles"
+      ]
+    },
+    {
+      "id": "ROOT-12",
+      "numeric_id": 12,
+      "name": "Mayor",
+      "text": "Take the action of any swayed noble or squire.",
+      "image": "mole-mayor",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "duchy_minister",
+      "expansion": "Underworld Expansion",
+      "set": "Underworld Expansion",
+      "source_file": "underworld",
+      "tags": [
+        "Underworld",
+        "Moles"
+      ]
+    },
+    {
+      "id": "ROOT-13",
+      "numeric_id": 13,
+      "name": "Faithful Retainer",
+      "text": "When you discard this card, remove it permanently.",
+      "image": "badgers-retainer",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "faction_card",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder"
+      ]
+    },
+    {
+      "id": "ROOT-14",
+      "numeric_id": 14,
+      "name": "Mood: Bitter",
+      "text": "`symbol:item-hammer` In battle with warlord, before the roll, place one warrior in the battle clearing per mob you choose to removve from the battle clearing and adjacent ones.",
+      "image": "rats-mood-bitter",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "mood",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder",
+        "Rats"
+      ]
+    },
+    {
+      "id": "ROOT-15",
+      "numeric_id": 15,
+      "name": "Mood: Grandiose",
+      "text": "`symbol:item-tea` Swap your Advance the Warlord step and Command the Hundreds step.",
+      "image": "rats-mood-grandiose",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "mood",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder",
+        "Rats"
+      ]
+    },
+    {
+      "id": "ROOT-16",
+      "numeric_id": 16,
+      "name": "Mood: Jubilant",
+      "text": "`symbol:item-boot` After you incite your warlord's clearing, you may roll the mob die to place a mob _(as described in your Rage step)_ up to four times.",
+      "image": "rats-mood-jubilant",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "mood",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder",
+        "Rats"
+      ]
+    },
+    {
+      "id": "ROOT-17",
+      "numeric_id": 17,
+      "name": "Mood: Lavish",
+      "text": "At the end of Birdsong, you may remove any items from your Hoard to place two warriors per item removed into your warlord's clearing.",
+      "image": "rats-mood-lavish",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "mood",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder",
+        "Rats"
+      ]
+    },
+    {
+      "id": "ROOT-18",
+      "numeric_id": 18,
+      "name": "Mood: Relentless",
+      "text": "`symbol:item-sack` Whenever you advance your warlord and both move and battle, you may move or battle with your warlord _(like half of an advance)_.",
+      "image": "rats-mood-relentless",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "mood",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder",
+        "Rats"
+      ]
+    },
+    {
+      "id": "ROOT-19",
+      "numeric_id": 19,
+      "name": "Mood: Rowdy",
+      "text": "`symbol:item-coin` In Evening, draw one more card. If your warlord's clearing has three or more enemy pieces, draw two more cards instead.",
+      "image": "rats-mood-rowdy",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "mood",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder",
+        "Rats"
+      ]
+    },
+    {
+      "id": "ROOT-20",
+      "numeric_id": 20,
+      "name": "Mood: Stubborn",
+      "text": "`symbol:item-crossbow` In battle with your warlord, you ignore the first hit you take.",
+      "image": "rats-mood-stubborn",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "mood",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder",
+        "Rats"
+      ]
+    },
+    {
+      "id": "ROOT-21",
+      "numeric_id": 21,
+      "name": "Mood: Wrathful",
+      "text": "`symbol:item-sword` As attacker in battle with your warlord, you deal an extra hit _(When looting, you do deal this hit)_.",
+      "image": "rats-mood-wrathful",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "mood",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder",
+        "Rats"
+      ]
+    },
+    {
+      "id": "ROOT-22",
+      "numeric_id": 22,
+      "name": "Arbiter",
+      "text": "Protect: When defending in battle, before the roll, a faction may enlist the Arbiter if he's in the battle clearing. The Arbiter scores one point and adds undamaged swords to the defender's maximum rolled hits.",
+      "image": "vagabond-arbiter",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "vagabond_role",
+      "expansion": "Riverfolk Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk",
+      "tags": [
+        "Riverfolk",
+        "Vagabond"
+      ]
+    },
+    {
+      "id": "ROOT-23",
+      "numeric_id": 23,
+      "name": "Ranger",
+      "text": "Hideout: Repair three items. Then, immediately end daylight.",
+      "image": "vagabond-ranger",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "vagabond_role",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Vagabond"
+      ]
+    },
+    {
+      "id": "ROOT-24",
+      "numeric_id": 24,
+      "name": "Scoundrel",
+      "text": "Scorched Earth: Place this torch in your clearing. Remove all enemy pieces there. Pieces can no longer be placed in or moved into this clearing.",
+      "image": "vagabond-scoundrel",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "vagabond_role",
+      "expansion": "Riverfolk Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk",
+      "tags": [
+        "Riverfolk",
+        "Vagabond"
+      ]
+    },
+    {
+      "id": "ROOT-25",
+      "numeric_id": 25,
+      "name": "Thief",
+      "text": "Steal: Take a random card from a player in your clearing",
+      "image": "vagabond-thief",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "vagabond_role",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Vagabond"
+      ]
+    },
+    {
+      "id": "ROOT-26",
+      "numeric_id": 26,
+      "name": "Tinker",
+      "text": "Day Labor: Take a card from the discard pile matching your clearing.",
+      "image": "vagabond-tinker",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "vagabond_role",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Vagabond"
+      ]
+    },
+    {
+      "id": "ROOT-27",
+      "numeric_id": 27,
+      "name": "Vagrant",
+      "text": "Instigate: Force a player to battle a player you choose in your clearing. Treat removed pieces as if you removed them. (Errata: Instigate: Force a player to battle a player you choose in your clearing. Treat removed Buildings and Tokens as if you removed them.)",
+      "image": "vagabond-vagrants",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "vagabond_role",
+      "expansion": "Riverfolk Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk",
+      "tags": [
+        "Riverfolk",
+        "Vagabond"
+      ]
+    },
+    {
+      "id": "ROOT-28",
+      "numeric_id": 28,
+      "name": "Adventurer",
+      "text": "Improvise: Once per turn, you may damage any unexhausted item to treat it as any other item in order to complete a quest.",
+      "image": "vagabond-adventurer",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "vagabond_role",
+      "expansion": "Vagabond Pack",
+      "set": "Vagabond Pack",
+      "source_file": "vagabonds",
+      "tags": [
+        "Vagabond"
+      ]
+    },
+    {
+      "id": "ROOT-29",
+      "numeric_id": 29,
+      "name": "Harrier",
+      "text": "Glide: Move alone to any clearing. Ignore paths and exhaust no Boots.",
+      "image": "vagabond-harrier",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "vagabond_role",
+      "expansion": "Vagabond Pack",
+      "set": "Vagabond Pack",
+      "source_file": "vagabonds",
+      "tags": [
+        "Vagabond"
+      ]
+    },
+    {
+      "id": "ROOT-30",
+      "numeric_id": 30,
+      "name": "Ronin",
+      "text": "Swift Strike: After rolling in battle, you may exhaust a sword to deal an extra hit.",
+      "image": "vagabond-ronin",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "vagabond_role",
+      "expansion": "Vagabond Pack",
+      "set": "Vagabond Pack",
+      "source_file": "vagabonds",
+      "tags": [
+        "Vagabond"
+      ]
+    },
+    {
+      "id": "ROOT-31",
+      "numeric_id": 31,
+      "name": "Errand in a rabbit clearing",
+      "text": null,
+      "image": "quest-errandbunny",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "quest",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Vagabond",
+        "Quest"
+      ]
+    },
+    {
+      "id": "ROOT-32",
+      "numeric_id": 32,
+      "name": "Errand in a fox clearing",
+      "text": null,
+      "image": "quest-errandfox",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "quest",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Vagabond",
+        "Quest"
+      ]
+    },
+    {
+      "id": "ROOT-33",
+      "numeric_id": 33,
+      "name": "Escort in a mouse clearing",
+      "text": null,
+      "image": "quest-escort",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "quest",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Vagabond",
+        "Quest"
+      ]
+    },
+    {
+      "id": "ROOT-34",
+      "numeric_id": 34,
+      "name": "Expel Bandits in a rabbit clearing",
+      "text": null,
+      "image": "quest-expelbanditsbunny",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "quest",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Vagabond",
+        "Quest"
+      ]
+    },
+    {
+      "id": "ROOT-35",
+      "numeric_id": 35,
+      "name": "Expel Bandits in a mouse clearing",
+      "text": null,
+      "image": "quest-expelbanditsmouse",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "quest",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Vagabond",
+        "Quest"
+      ]
+    },
+    {
+      "id": "ROOT-36",
+      "numeric_id": 36,
+      "name": "Fend off a Bear in a rabbit clearing",
+      "text": null,
+      "image": "quest-fendoffabearbunny",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "quest",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Vagabond",
+        "Quest"
+      ]
+    },
+    {
+      "id": "ROOT-37",
+      "numeric_id": 37,
+      "name": "Fend off a Bear in a mouse clearing",
+      "text": null,
+      "image": "quest-fendoffabearmouse",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "quest",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Vagabond",
+        "Quest"
+      ]
+    },
+    {
+      "id": "ROOT-38",
+      "numeric_id": 38,
+      "name": "Fundraising in a fox clearing",
+      "text": null,
+      "image": "quest-fundraising",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "quest",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Vagabond",
+        "Quest"
+      ]
+    },
+    {
+      "id": "ROOT-39",
+      "numeric_id": 39,
+      "name": "Give a Speech in a rabbit clearing",
+      "text": null,
+      "image": "quest-giveaspeechbunny",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "quest",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Vagabond",
+        "Quest"
+      ]
+    },
+    {
+      "id": "ROOT-40",
+      "numeric_id": 40,
+      "name": "Give a Speech in a fox clearing",
+      "text": null,
+      "image": "quest-giveaspeechfox",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "quest",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Vagabond",
+        "Quest"
+      ]
+    },
+    {
+      "id": "ROOT-41",
+      "numeric_id": 41,
+      "name": "Guard Duty in a rabbit clearing",
+      "text": null,
+      "image": "quest-guarddutybunny",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "quest",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Vagabond",
+        "Quest"
+      ]
+    },
+    {
+      "id": "ROOT-42",
+      "numeric_id": 42,
+      "name": "Guard Duty in a mouse clearing",
+      "text": null,
+      "image": "quest-guarddutymouse",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "quest",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Vagabond",
+        "Quest"
+      ]
+    },
+    {
+      "id": "ROOT-43",
+      "numeric_id": 43,
+      "name": "Logistics Help in a fox clearing",
+      "text": null,
+      "image": "quest-logisticshelpfox",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "quest",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Vagabond",
+        "Quest"
+      ]
+    },
+    {
+      "id": "ROOT-44",
+      "numeric_id": 44,
+      "name": "Logistics Help in a mouse clearing",
+      "text": null,
+      "image": "quest-logisticshelpmouse",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "quest",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Vagabond",
+        "Quest"
+      ]
+    },
+    {
+      "id": "ROOT-45",
+      "numeric_id": 45,
+      "name": "Repair a Shed in a fox clearing",
+      "text": null,
+      "image": "quest-repairashed",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "quest",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Vagabond",
+        "Quest"
+      ]
+    },
+    {
+      "id": "ROOT-46",
+      "numeric_id": 46,
+      "name": "Ambush!",
+      "text": "At start of battle, defender may play to deal two immediate hits, then discard. Cancel if attacker plays matching ambush.",
+      "image": "card-ambushbird",
+      "suit": "Bird",
+      "deck": "Standard Deck",
+      "craftable": false,
+      "category": "ambush",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-47",
+      "numeric_id": 47,
+      "name": "Ambush!",
+      "text": "At start of battle, defender may play to deal two immediate hits, then discard. Cancel if attacker plays matching ambush.",
+      "image": "card-ambushbunny",
+      "suit": "Rabbit",
+      "deck": "Standard Deck",
+      "craftable": false,
+      "category": "ambush",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-48",
+      "numeric_id": 48,
+      "name": "Ambush!",
+      "text": "At start of battle, defender may play to deal two immediate hits, then discard. Cancel if attacker plays matching ambush.",
+      "image": "card-ambushfox",
+      "suit": "Fox",
+      "deck": "Standard Deck",
+      "craftable": false,
+      "category": "ambush",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-49",
+      "numeric_id": 49,
+      "name": "Ambush!",
+      "text": "At start of battle, defender may play to deal two immediate hits, then discard. Cancel if attacker plays matching ambush.",
+      "image": "card-ambushmouse",
+      "suit": "Mouse",
+      "deck": "Standard Deck",
+      "craftable": false,
+      "category": "ambush",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-50",
+      "numeric_id": 50,
+      "name": "Anvil",
+      "text": null,
+      "image": "card-anvil",
+      "suit": "Fox",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-51",
+      "numeric_id": 51,
+      "name": "Armorers",
+      "text": "In battle, may discard this to ignore all rolled hits taken.",
+      "image": "card-armorers",
+      "suit": "Bird",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-52",
+      "numeric_id": 52,
+      "name": "Arms Trader",
+      "text": null,
+      "image": "card-armstrader",
+      "suit": "Bird",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-53",
+      "numeric_id": 53,
+      "name": "A Visit To Friends",
+      "text": null,
+      "image": "card-avisittofriends",
+      "suit": "Rabbit",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-54",
+      "numeric_id": 54,
+      "name": "Bake Sale",
+      "text": null,
+      "image": "card-bakesale",
+      "suit": "Rabbit",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-55",
+      "numeric_id": 55,
+      "name": "Better Burrow Bank",
+      "text": "At start of Birdsong, you may draw one card. If you do, choose an enemy to draw on card.",
+      "image": "card-betterburrowbank",
+      "suit": "Rabbit",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-56",
+      "numeric_id": 56,
+      "name": "Birdy Bindle",
+      "text": null,
+      "image": "card-birdybindle",
+      "suit": "Bird",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-57",
+      "numeric_id": 57,
+      "name": "Boat Builders",
+      "text": "You treat rivers as paths.",
+      "image": "card-boatbuilders",
+      "suit": "Bird",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-58",
+      "numeric_id": 58,
+      "name": "Brutal Tactics",
+      "text": "In battle as attacker, may deal an extra hit, but defender scores one point.",
+      "image": "card-brutaltactics",
+      "suit": "Bird",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-59",
+      "numeric_id": 59,
+      "name": "Charm Offensive",
+      "text": "At start of Evening, may draw a card and choose another player to score one point.",
+      "image": "card-charmoffensive",
+      "suit": "Rabbit",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-60",
+      "numeric_id": 60,
+      "name": "Cobbler",
+      "text": "At start of Evening, may take a move.",
+      "image": "card-cobbler",
+      "suit": "Rabbit",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-61",
+      "numeric_id": 61,
+      "name": "Codebreakers",
+      "text": "Once in Daylight, may look at another player's hand.",
+      "image": "card-codebreakers",
+      "suit": "Mouse",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-62",
+      "numeric_id": 62,
+      "name": "Coffin Makers",
+      "text": "Warriors removed, not replaced, from the map to their supply are placed here. At start of Birdsong, score one point per five warriors here, then remove all warriors here.",
+      "image": "card-coffinmakers",
+      "suit": "Rabbit",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-63",
+      "numeric_id": 63,
+      "name": "Command Warren",
+      "text": "At start of Daylight, may initiate a battle.",
+      "image": "card-commandwarren",
+      "suit": "Rabbit",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-64",
+      "numeric_id": 64,
+      "name": "Corvid Planners",
+      "text": "While moving, you ignore rule.",
+      "image": "card-corvidplanners",
+      "suit": "Bird",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-65",
+      "numeric_id": 65,
+      "name": "Crossbow",
+      "text": null,
+      "image": "card-crossbowbird",
+      "suit": "Bird",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-66",
+      "numeric_id": 66,
+      "name": "Crossbow",
+      "text": null,
+      "image": "card-crossbowmouse",
+      "suit": "Mouse",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-67",
+      "numeric_id": 67,
+      "name": "Dominance",
+      "text": "You win the game if you rule two opposite corners at the start of your Birdsong.",
+      "image": "card-dominancebird",
+      "suit": "Bird",
+      "deck": "Standard Deck",
+      "craftable": false,
+      "category": "dominance",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-68",
+      "numeric_id": 68,
+      "name": "Dominance",
+      "text": "You win the game if you rule three bunny clearings at the start of your Birdsong.",
+      "image": "card-dominancebunny",
+      "suit": "Rabbit",
+      "deck": "Standard Deck",
+      "craftable": false,
+      "category": "dominance",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-69",
+      "numeric_id": 69,
+      "name": "Dominance",
+      "text": "You win the game if you rule three fox clearings at the start of your Birdsong.",
+      "image": "card-dominancefox",
+      "suit": "Fox",
+      "deck": "Standard Deck",
+      "craftable": false,
+      "category": "dominance",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-70",
+      "numeric_id": 70,
+      "name": "Dominance",
+      "text": "You win the game if you rule three mouse clearings at the start of your Birdsong.",
+      "image": "card-dominancemouse",
+      "suit": "Mouse",
+      "deck": "Standard Deck",
+      "craftable": false,
+      "category": "dominance",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-71",
+      "numeric_id": 71,
+      "name": "Eyrie Emigre",
+      "text": "At end of Birdsong, you must take a move, then you must battle in the  destination clearing. Discard this if you did not take both actions.",
+      "image": "card-eyrieemigre",
+      "suit": "Bird",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-72",
+      "numeric_id": 72,
+      "name": "False Orders",
+      "text": "In Birdsong, you may spend this card to force an enemy to move half their faction warriors, rounded up, from a clearing as you choose, ignoring rule.",
+      "image": "card-falseorders",
+      "suit": "Fox",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-73",
+      "numeric_id": 73,
+      "name": "Favor of the Foxes",
+      "text": "Remove all enemy pieces in fox clearings, then discard.",
+      "image": "card-favorofthefoxes",
+      "suit": "Fox",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-74",
+      "numeric_id": 74,
+      "name": "Favor of the Mice",
+      "text": "Remove all enemy pieces in mouse clearings, then discard.",
+      "image": "card-favorofthemice",
+      "suit": "Mouse",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-75",
+      "numeric_id": 75,
+      "name": "Favor of the Rabbits",
+      "text": "Remove all enemy pieces in bunny clearings, then discard.",
+      "image": "card-favoroftherabbits",
+      "suit": "Rabbit",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-76",
+      "numeric_id": 76,
+      "name": "Foxfolk Steel",
+      "text": null,
+      "image": "card-foxfolksteel",
+      "suit": "Fox",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-77",
+      "numeric_id": 77,
+      "name": "Fox Partisans",
+      "text": "In battle in fox clearings, may deal one extra hit, then discard all your cards except foxes.",
+      "image": "card-foxpartisans",
+      "suit": "Fox",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-78",
+      "numeric_id": 78,
+      "name": "Gently Used Knapsack",
+      "text": null,
+      "image": "card-gentlyusedknapsack",
+      "suit": "Fox",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-79",
+      "numeric_id": 79,
+      "name": "Informants",
+      "text": "In Evening, if you would draw cards, you may instead take one ambush card from the discard pile.",
+      "image": "card-informants",
+      "suit": "Fox",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-80",
+      "numeric_id": 80,
+      "name": "Investments",
+      "text": null,
+      "image": "card-investments",
+      "suit": "Mouse",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-81",
+      "numeric_id": 81,
+      "name": "League of Adventurous Mice",
+      "text": "Once in Daylight, may exhaust an item in your Crafted Items box to take a move or initiate battle.",
+      "image": "card-leagueofadventrousmice",
+      "suit": "Mouse",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-82",
+      "numeric_id": 82,
+      "name": "Master Engravers",
+      "text": "Whenever you craft an item, score one extra point.",
+      "image": "card-masterengravers",
+      "suit": "Mouse",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-83",
+      "numeric_id": 83,
+      "name": "Mouse-in-a-sack",
+      "text": null,
+      "image": "card-mouseinasack",
+      "suit": "Mouse",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-84",
+      "numeric_id": 84,
+      "name": "Mouse Partisans",
+      "text": "In battle in mouse clearings, may deal one extra hit, then discard all your cards except mice.",
+      "image": "card-mousepartisans",
+      "suit": "Mouse",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-85",
+      "numeric_id": 85,
+      "name": "Murine Broker",
+      "text": "Whenever another player crafts an item, draw a card.",
+      "image": "card-murinebroker",
+      "suit": "Mouse",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-86",
+      "numeric_id": 86,
+      "name": "Propaganda Bureau",
+      "text": "Once in Daylight, you may spend a card to replace an enemy warrior in a  matching clearing with a warrior of your faction.",
+      "image": "card-propagandabureau",
+      "suit": "Fox",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-87",
+      "numeric_id": 87,
+      "name": "Protection Racket",
+      "text": null,
+      "image": "card-protectionracket",
+      "suit": "Fox",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-88",
+      "numeric_id": 88,
+      "name": "Rabbit Partisans",
+      "text": "In battle in rabbit clearings, may deal one extra hit, then discard all your cards except rabbits.",
+      "image": "card-rabbitpartisans",
+      "suit": "Rabbit",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-89",
+      "numeric_id": 89,
+      "name": "Root Tea",
+      "text": null,
+      "image": "card-rootteabunny",
+      "suit": "Rabbit",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-90",
+      "numeric_id": 90,
+      "name": "Root Tea",
+      "text": null,
+      "image": "card-rootteafox",
+      "suit": "Fox",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-91",
+      "numeric_id": 91,
+      "name": "Root Tea",
+      "text": null,
+      "image": "card-rootteamouse",
+      "suit": "Mouse",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-92",
+      "numeric_id": 92,
+      "name": "Royal Claim",
+      "text": "In Birdsong, may discard this to score one point per clearing you rule.",
+      "image": "card-royalclaim",
+      "suit": "Bird",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-93",
+      "numeric_id": 93,
+      "name": "Saboteurs",
+      "text": "At the start of Birdsong, may discard this card to discard an enemys crafted card.",
+      "image": "card-saboteurs",
+      "suit": "Bird",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-94",
+      "numeric_id": 94,
+      "name": "Sappers",
+      "text": "In battle as defender, may discard this to deal an extra hit.",
+      "image": "card-sappers",
+      "suit": "Bird",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-95",
+      "numeric_id": 95,
+      "name": "Scouting Party",
+      "text": "As attacker in battle, you are not affected by ambush cards.",
+      "image": "card-scoutingparty",
+      "suit": "Mouse",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-96",
+      "numeric_id": 96,
+      "name": "Smuggler's Trail",
+      "text": null,
+      "image": "card-smugglerstrail",
+      "suit": "Rabbit",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-97",
+      "numeric_id": 97,
+      "name": "Soup Kitchens",
+      "text": "Your tokens now count towards rule, and each of your tokens counts twice.",
+      "image": "card-soupkitchens",
+      "suit": "Bird",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-98",
+      "numeric_id": 98,
+      "name": "Spy",
+      "text": "In Daylight, reveal an order. If the spy reveals a bird card, discard the spy. If the spy is not discarded, you may swap any two order cards.",
+      "image": "card-spybird",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "mechanical_marquise",
+      "expansion": "Riverfolk Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk",
+      "tags": [
+        "Riverfolk",
+        "Mechanical Marquise 1.0"
+      ]
+    },
+    {
+      "id": "ROOT-99",
+      "numeric_id": 99,
+      "name": "Spy",
+      "text": "In Daylight, reveal an order. If the spy reveals a bunny card, discard the spy. If the spy is not discarded, you may swap any two order cards.",
+      "image": "card-spybunny",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "mechanical_marquise",
+      "expansion": "Riverfolk Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk",
+      "tags": [
+        "Riverfolk",
+        "Mechanical Marquise 1.0"
+      ]
+    },
+    {
+      "id": "ROOT-100",
+      "numeric_id": 100,
+      "name": "Spy",
+      "text": "In Daylight, reveal an order. If the spy reveals a fox card, discard the spy. If the spy is not discarded, you may swap any two order cards.",
+      "image": "card-spyfox",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "mechanical_marquise",
+      "expansion": "Riverfolk Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk",
+      "tags": [
+        "Riverfolk",
+        "Mechanical Marquise 1.0"
+      ]
+    },
+    {
+      "id": "ROOT-101",
+      "numeric_id": 101,
+      "name": "Spy",
+      "text": "In Daylight, reveal an order. If the spy reveals a mouse card, discard the spy. If the spy is not discarded, you may swap any two order cards.",
+      "image": "card-spymouse",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "mechanical_marquise",
+      "expansion": "Riverfolk Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk",
+      "tags": [
+        "Riverfolk",
+        "Mechanical Marquise 1.0"
+      ]
+    },
+    {
+      "id": "ROOT-102",
+      "numeric_id": 102,
+      "name": "Stand and Deliver!",
+      "text": "Once in Birdsong, you may take a random card from an enemy. If you do, they score one point.",
+      "image": "card-standanddeliver",
+      "suit": "Fox",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-103",
+      "numeric_id": 103,
+      "name": "Swap Meet",
+      "text": "Once in Birdsong, may take a random card from another player and then give them a card.",
+      "image": "card-swapmeet",
+      "suit": "Rabbit",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-104",
+      "numeric_id": 104,
+      "name": "Sword",
+      "text": null,
+      "image": "card-sword",
+      "suit": "Mouse",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-105",
+      "numeric_id": 105,
+      "name": "Tax Collector",
+      "text": "Once in Daylight, you may remove a warrior of your faction from a clearing on the map to draw one card.",
+      "image": "card-taxcollector",
+      "suit": "Fox",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-106",
+      "numeric_id": 106,
+      "name": "Travel Gear",
+      "text": null,
+      "image": "card-travelgearfox",
+      "suit": "Fox",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-107",
+      "numeric_id": 107,
+      "name": "Travel Gear",
+      "text": null,
+      "image": "card-travelgearmouse",
+      "suit": "Mouse",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-108",
+      "numeric_id": 108,
+      "name": "Tunnels",
+      "text": "You treat clearings with your crafting pieces as adjacent. You may ignore paths when moving between them.",
+      "image": "card-tunnels",
+      "suit": "Rabbit",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-109",
+      "numeric_id": 109,
+      "name": "Woodland Runners",
+      "text": null,
+      "image": "card-woodlandrunners",
+      "suit": "Bird",
+      "deck": "Standard Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Base Game",
+        "Standard Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-110",
+      "numeric_id": 110,
+      "name": "Eyrie Easy (Trait)",
+      "text": "During setup, place only one Loyal Vizier in the bird column.",
+      "image": "difficulty-eyrie-easy",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-111",
+      "numeric_id": 111,
+      "name": "Eyrie Challenging (Trait)",
+      "text": "During setup, take out one bird ambush from the deck and place it in the bird column.",
+      "image": "difficulty-eyrie-challenging",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-112",
+      "numeric_id": 112,
+      "name": "Eyrie Nightmare (Trait)",
+      "text": "During setup, take out one bird ambush from the deck and place it in the bird column. At the end of evening, score 1 VP.",
+      "image": "difficulty-eyrie-nightmare",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-113",
+      "numeric_id": 113,
+      "name": "Nobility (Trait)",
+      "text": "Turmoil is now triggered if you are unable to place a roost or if you are unable to place a warrior. When turmoil occurs, no victory points are lost and instead a point is scored for every bird card in your decree.",
+      "image": "trait-eyrie-nobility",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-114",
+      "numeric_id": 114,
+      "name": "Relentless (Trait)",
+      "text": "After resolving the Decree, remove all defenseless buildings and tokens in any clearings where you have warriors.",
+      "image": "trait-eyrie-relentless",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-115",
+      "numeric_id": 115,
+      "name": "Swoop (Trait)",
+      "text": "At the end of Daylight, recruit two warriors in the highest priority clearing in which you have no pieces.",
+      "image": "trait-eyrie-swoop",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-116",
+      "numeric_id": 116,
+      "name": "War Tax (Trait)",
+      "text": "Whenever you destroy a token or building, the owner of the token loses 1 VP.",
+      "image": "trait-eyrie-wartax",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-117",
+      "numeric_id": 117,
+      "name": "Marquise Easy (Trait)",
+      "text": "Recruit two warriors during the recruit action.",
+      "image": "difficulty-marquise-easy",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-118",
+      "numeric_id": 118,
+      "name": "Marquise Challenging (Trait)",
+      "text": "After recruiting, place two warriors in the highest priority clearing you rule matching the order card.",
+      "image": "difficulty-marquise-challenging",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-119",
+      "numeric_id": 119,
+      "name": "Marquise Nightmare (Trait)",
+      "text": "After recruiting, place two warriors in the highest priority clearing you rule matching the order card. At the end of the evening, score 1 VP.",
+      "image": "difficulty-marquise-nightmare",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-120",
+      "numeric_id": 120,
+      "name": "Blitz (Trait)",
+      "text": "After your move action, select the highest priority clearing you rule without any enemy pieces. Move all but one warrior from the clearing and battle in the destination if opponents are present.",
+      "image": "trait-marquise-blitz",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-121",
+      "numeric_id": 121,
+      "name": "Fortified (Trait)",
+      "text": "Opponents require two hits to destroy each of your buildings. Assigning a single hit to a building has no effect.",
+      "image": "trait-marquise-fortified",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-122",
+      "numeric_id": 122,
+      "name": "Hospitals (Trait)",
+      "text": "After each battle as Defender in whihc you lost at least 2 warriors, immediately recruit 2 warriors in the clearing with the keep token.",
+      "image": "trait-marquise-hospitals",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-123",
+      "numeric_id": 123,
+      "name": "Iron Will (Trait)",
+      "text": "In Escalated Daylight, recruit twice as many warriors.",
+      "image": "trait-marquise-ironwill",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-124",
+      "numeric_id": 124,
+      "name": "Vagabond Easy (Trait)",
+      "text": "Refresh one less item during Evening.",
+      "image": "difficulty-vagabond-easy",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-125",
+      "numeric_id": 125,
+      "name": "Vagabond Challenging (Trait)",
+      "text": "Refresh one more item during Evening.",
+      "image": "difficulty-vagabond-challenging",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-126",
+      "numeric_id": 126,
+      "name": "Vagabond Nightmare (Trait)",
+      "text": "Refresh one more item during Evening. At the end of the evening, score 1 VP.",
+      "image": "difficulty-vagabond-nightmare",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-127",
+      "numeric_id": 127,
+      "name": "Adventurer (Trait)",
+      "text": "Battle only once per turn. At the end of Daylight, spend any remaining items on repeated Quest actions.",
+      "image": "trait-vagabond-adventurer",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-128",
+      "numeric_id": 128,
+      "name": "Berserker (Trait)",
+      "text": "During the Battle action, target the clearing with the most pieces and target the player with the most pieces in that clearing. At the end of your turn, repair one additional item.",
+      "image": "trait-vagabond-berserker",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-129",
+      "numeric_id": 129,
+      "name": "Helper (Trait)",
+      "text": "When taking the Aid action, score an additional victory point. The aided player then takes two cards instead of one.",
+      "image": "trait-vagabond-helper",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-130",
+      "numeric_id": 130,
+      "name": "Marksman (Trait)",
+      "text": "When attacking, deal one immediate hit to your opponent (scoring a point if a warrior is removed) before the dice are rolled.",
+      "image": "trait-vagabond-marksman",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-131",
+      "numeric_id": 131,
+      "name": "Woodland Easy (Trait)",
+      "text": "Organize if there are 4 or more warriors in the clearing.",
+      "image": "difficulty-woodland-easy",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-132",
+      "numeric_id": 132,
+      "name": "Woodland Challenging (Trait)",
+      "text": "Organize if there are 2 or more warriors in the clearing.",
+      "image": "difficulty-woodland-challenging",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-133",
+      "numeric_id": 133,
+      "name": "Woodland Nightmare (Trait)",
+      "text": "Organize if there are 2 or more warriors in the clearing. At the end of the evening, score 1 VP.",
+      "image": "difficulty-woodland-nightmare",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-134",
+      "numeric_id": 134,
+      "name": "Informants (Trait)",
+      "text": "Defenseless sympathy tokens benefit from Automated Ambush when attacked.",
+      "image": "trait-woodland-informants",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-135",
+      "numeric_id": 135,
+      "name": "Popularity (Trait)",
+      "text": "Destroying sympathy tokens grants no victory points for your opponents.",
+      "image": "trait-woodland-popularity",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-136",
+      "numeric_id": 136,
+      "name": "Veterans (Trait)",
+      "text": "In battle as defender, you use the higher roll and the attacker uses the lower roll.",
+      "image": "trait-woodland-veterans",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-137",
+      "numeric_id": 137,
+      "name": "Wildfire (Trait)",
+      "text": "Defenseless sympathy tokens benefit from Automated Ambush when attacked.",
+      "image": "trait-woodland-wildfire",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-138",
+      "numeric_id": 138,
+      "name": "Landmark Setup",
+      "text": null,
+      "image": "landmark-setup",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Landmarks",
+      "set": "Landmarks",
+      "source_file": "landmarks",
+      "tags": [
+        "Landmarks"
+      ]
+    },
+    {
+      "id": "ROOT-139",
+      "numeric_id": 139,
+      "name": "Landmark Rules",
+      "text": null,
+      "image": "landmark-rules",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Landmarks",
+      "set": "Landmarks",
+      "source_file": "landmarks",
+      "tags": [
+        "Landmarks"
+      ]
+    },
+    {
+      "id": "ROOT-140",
+      "numeric_id": 140,
+      "name": "Black Market (Setup)",
+      "text": null,
+      "image": "landmark-blackmarket-setup",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Landmarks",
+      "set": "Landmarks",
+      "source_file": "landmarks",
+      "tags": [
+        "Landmarks"
+      ]
+    },
+    {
+      "id": "ROOT-141",
+      "numeric_id": 141,
+      "name": "Black Market",
+      "text": null,
+      "image": "landmark-blackmarket",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Landmarks",
+      "set": "Landmarks",
+      "source_file": "landmarks",
+      "tags": [
+        "Landmarks"
+      ]
+    },
+    {
+      "id": "ROOT-142",
+      "numeric_id": 142,
+      "name": "Elder Treetop (Setup)",
+      "text": null,
+      "image": "landmark-treetop-setup",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Landmarks",
+      "set": "Landmarks",
+      "source_file": "landmarks",
+      "tags": [
+        "Landmarks"
+      ]
+    },
+    {
+      "id": "ROOT-143",
+      "numeric_id": 143,
+      "name": "Elder Treetop",
+      "text": null,
+      "image": "landmark-treetop",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Landmarks",
+      "set": "Landmarks",
+      "source_file": "landmarks",
+      "tags": [
+        "Landmarks"
+      ]
+    },
+    {
+      "id": "ROOT-144",
+      "numeric_id": 144,
+      "name": "The Ferry (Setup)",
+      "text": null,
+      "image": "landmark-ferry-setup",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Landmarks",
+      "set": "Landmarks",
+      "source_file": "landmarks",
+      "tags": [
+        "Landmarks"
+      ]
+    },
+    {
+      "id": "ROOT-145",
+      "numeric_id": 145,
+      "name": "The Ferry",
+      "text": null,
+      "image": "landmark-ferry",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Landmarks",
+      "set": "Landmarks",
+      "source_file": "landmarks",
+      "tags": [
+        "Landmarks"
+      ]
+    },
+    {
+      "id": "ROOT-146",
+      "numeric_id": 146,
+      "name": "Legendary Forge (Setup)",
+      "text": null,
+      "image": "landmark-legendaryforge-setup",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Landmarks",
+      "set": "Landmarks",
+      "source_file": "landmarks",
+      "tags": [
+        "Landmarks"
+      ]
+    },
+    {
+      "id": "ROOT-147",
+      "numeric_id": 147,
+      "name": "Legendary Forge",
+      "text": null,
+      "image": "landmark-legendaryforge",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Landmarks",
+      "set": "Landmarks",
+      "source_file": "landmarks",
+      "tags": [
+        "Landmarks"
+      ]
+    },
+    {
+      "id": "ROOT-148",
+      "numeric_id": 148,
+      "name": "Lost City (Setup)",
+      "text": null,
+      "image": "landmark-lostcity-setup",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Landmarks",
+      "set": "Landmarks",
+      "source_file": "landmarks",
+      "tags": [
+        "Landmarks"
+      ]
+    },
+    {
+      "id": "ROOT-149",
+      "numeric_id": 149,
+      "name": "Lost City",
+      "text": null,
+      "image": "landmark-lostcity",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Landmarks",
+      "set": "Landmarks",
+      "source_file": "landmarks",
+      "tags": [
+        "Landmarks"
+      ]
+    },
+    {
+      "id": "ROOT-150",
+      "numeric_id": 150,
+      "name": "The Tower (Setup)",
+      "text": null,
+      "image": "landmark-tower-setup",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Landmarks",
+      "set": "Landmarks",
+      "source_file": "landmarks",
+      "tags": [
+        "Landmarks"
+      ]
+    },
+    {
+      "id": "ROOT-151",
+      "numeric_id": 151,
+      "name": "The Tower",
+      "text": null,
+      "image": "landmark-tower",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Landmarks",
+      "set": "Landmarks",
+      "source_file": "landmarks",
+      "tags": [
+        "Landmarks"
+      ]
+    },
+    {
+      "id": "ROOT-152",
+      "numeric_id": 152,
+      "name": "Corvid Intro",
+      "text": null,
+      "image": "intro-corvid",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "learn_to_play",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Learn to Play"
+      ]
+    },
+    {
+      "id": "ROOT-153",
+      "numeric_id": 153,
+      "name": "Cult Intro",
+      "text": null,
+      "image": "intro-cult",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "learn_to_play",
+      "expansion": "Riverfolk Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk",
+      "tags": [
+        "Learn to Play"
+      ]
+    },
+    {
+      "id": "ROOT-154",
+      "numeric_id": 154,
+      "name": "Cult Intro (2)",
+      "text": null,
+      "image": "intro-cult-2",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "learn_to_play",
+      "expansion": "Riverfolk Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk",
+      "tags": [
+        "Learn to Play"
+      ]
+    },
+    {
+      "id": "ROOT-155",
+      "numeric_id": 155,
+      "name": "Duchy Intro",
+      "text": null,
+      "image": "intro-duchy",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "learn_to_play",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Learn to Play"
+      ]
+    },
+    {
+      "id": "ROOT-156",
+      "numeric_id": 156,
+      "name": "Eyrie Intro",
+      "text": null,
+      "image": "intro-eyrie",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "learn_to_play",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Learn to Play"
+      ]
+    },
+    {
+      "id": "ROOT-157",
+      "numeric_id": 157,
+      "name": "Keepers in Iron Intro",
+      "text": null,
+      "image": "intro-badgers",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "learn_to_play",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Learn to Play"
+      ]
+    },
+    {
+      "id": "ROOT-158",
+      "numeric_id": 158,
+      "name": "Lord of the Hundreds Intro",
+      "text": null,
+      "image": "intro-rats",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "learn_to_play",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Learn to Play"
+      ]
+    },
+    {
+      "id": "ROOT-159",
+      "numeric_id": 159,
+      "name": "Marquise Intro",
+      "text": null,
+      "image": "intro-marquise",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "learn_to_play",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Learn to Play"
+      ]
+    },
+    {
+      "id": "ROOT-160",
+      "numeric_id": 160,
+      "name": "Riverfolk Intro",
+      "text": null,
+      "image": "intro-riverfolk",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "learn_to_play",
+      "expansion": "Riverfolk Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk",
+      "tags": [
+        "Learn to Play"
+      ]
+    },
+    {
+      "id": "ROOT-161",
+      "numeric_id": 161,
+      "name": "Riverfolk Intro (2)",
+      "text": null,
+      "image": "intro-riverfolk",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "learn_to_play",
+      "expansion": "Riverfolk Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk",
+      "tags": [
+        "Learn to Play"
+      ]
+    },
+    {
+      "id": "ROOT-162",
+      "numeric_id": 162,
+      "name": "Vagabond Intro",
+      "text": null,
+      "image": "intro-vagabond",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "learn_to_play",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Learn to Play"
+      ]
+    },
+    {
+      "id": "ROOT-163",
+      "numeric_id": 163,
+      "name": "Woodland Intro",
+      "text": null,
+      "image": "intro-woodland",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "learn_to_play",
+      "expansion": "Base Game",
+      "set": "Base Game",
+      "source_file": "rootbasegame",
+      "tags": [
+        "Learn to Play"
+      ]
+    },
+    {
+      "id": "ROOT-164",
+      "numeric_id": 164,
+      "name": "ADSET: Corvid Conspiracy",
+      "text": null,
+      "image": "adset-setup-corvids",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Underworld Expansion",
+      "set": "Underworld Expansion",
+      "source_file": "underworld-hirelings",
+      "tags": [
+        "ADSET"
+      ]
+    },
+    {
+      "id": "ROOT-165",
+      "numeric_id": 165,
+      "name": "ADSET: Eyrie Dynasties",
+      "text": null,
+      "image": "adset-setup-eyrie",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Marauders",
+        "ADSET"
+      ]
+    },
+    {
+      "id": "ROOT-166",
+      "numeric_id": 166,
+      "name": "ADSET: Keepers in Iron",
+      "text": null,
+      "image": "adset-setup-badgers",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Marauders",
+        "ADSET"
+      ]
+    },
+    {
+      "id": "ROOT-167",
+      "numeric_id": 167,
+      "name": "ADSET: Lizard Cult",
+      "text": null,
+      "image": "adset-setup-cult",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Marauders Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk-hirelings",
+      "tags": [
+        "Marauders",
+        "ADSET"
+      ]
+    },
+    {
+      "id": "ROOT-168",
+      "numeric_id": 168,
+      "name": "ADSET: Lord of the Hundreds",
+      "text": null,
+      "image": "adset-setup-rats",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Marauders",
+        "ADSET"
+      ]
+    },
+    {
+      "id": "ROOT-169",
+      "numeric_id": 169,
+      "name": "ADSET: Marquise de Cat",
+      "text": null,
+      "image": "adset-setup-marquise",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Marauders",
+        "ADSET"
+      ]
+    },
+    {
+      "id": "ROOT-170",
+      "numeric_id": 170,
+      "name": "ADSET: Riverfolk Company",
+      "text": null,
+      "image": "adset-setup-riverfolk",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Marauders Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk-hirelings",
+      "tags": [
+        "Marauders",
+        "ADSET"
+      ]
+    },
+    {
+      "id": "ROOT-171",
+      "numeric_id": 171,
+      "name": "ADSET: Underground Duchy",
+      "text": null,
+      "image": "adset-setup-duchy",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Underworld Expansion",
+      "set": "Underworld Expansion",
+      "source_file": "underworld-hirelings",
+      "tags": [
+        "ADSET"
+      ]
+    },
+    {
+      "id": "ROOT-172",
+      "numeric_id": 172,
+      "name": "ADSET: Vagabond",
+      "text": null,
+      "image": "adset-setup-vagabond",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Marauders",
+        "ADSET"
+      ]
+    },
+    {
+      "id": "ROOT-173",
+      "numeric_id": 173,
+      "name": "ADSET: Woodland Alliance",
+      "text": null,
+      "image": "adset-setup-woodland",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Marauders",
+        "ADSET"
+      ]
+    },
+    {
+      "id": "ROOT-174",
+      "numeric_id": 174,
+      "name": "Vault Keepers",
+      "text": null,
+      "image": "adset-hirelings-badgers-big",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-175",
+      "numeric_id": 175,
+      "name": "Badger Bodyguards",
+      "text": null,
+      "image": "adset-hirelings-badgers-small",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-176",
+      "numeric_id": 176,
+      "name": "Popular Band",
+      "text": null,
+      "image": "adset-hirelings-band-big",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-177",
+      "numeric_id": 177,
+      "name": "Street Band",
+      "text": null,
+      "image": "adset-hirelings-band-small",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-178",
+      "numeric_id": 178,
+      "name": "Highway Bandits",
+      "text": null,
+      "image": "adset-hirelings-bandits-big",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Riverfolk Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-179",
+      "numeric_id": 179,
+      "name": "Bandit Gangs",
+      "text": null,
+      "image": "adset-hirelings-bandits-small",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Riverfolk Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-180",
+      "numeric_id": 180,
+      "name": "Corvid Spies",
+      "text": null,
+      "image": "adset-hirelings-corvids-big",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Underworld Expansion",
+      "set": "Underworld Expansion",
+      "source_file": "underworld-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-181",
+      "numeric_id": 181,
+      "name": "Raven Sentries",
+      "text": null,
+      "image": "adset-hirelings-corvids-small",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Underworld Expansion",
+      "set": "Underworld Expansion",
+      "source_file": "underworld-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-182",
+      "numeric_id": 182,
+      "name": "Warm Sun Prophets",
+      "text": null,
+      "image": "adset-hirelings-cult-big",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Riverfolk Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-183",
+      "numeric_id": 183,
+      "name": "Lizard Envoys",
+      "text": null,
+      "image": "adset-hirelings-cult-small",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Riverfolk Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-184",
+      "numeric_id": 184,
+      "name": "Sunward Expedition",
+      "text": null,
+      "image": "adset-hirelings-duchy-big",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Underworld Expansion",
+      "set": "Underworld Expansion",
+      "source_file": "underworld-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-185",
+      "numeric_id": 185,
+      "name": "Mole Artisans",
+      "text": null,
+      "image": "adset-hirelings-duchy-small",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Underworld Expansion",
+      "set": "Underworld Expansion",
+      "source_file": "underworld-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-186",
+      "numeric_id": 186,
+      "name": "Last Dynasty",
+      "text": null,
+      "image": "adset-hirelings-eyrie-big",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-187",
+      "numeric_id": 187,
+      "name": "Bluebird Nobles",
+      "text": null,
+      "image": "adset-hirelings-eyrie-small",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-188",
+      "numeric_id": 188,
+      "name": "Forest Patrol",
+      "text": null,
+      "image": "adset-hirelings-marquise-big",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-189",
+      "numeric_id": 189,
+      "name": "Feline Physicians",
+      "text": null,
+      "image": "adset-hirelings-marquise-small",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-190",
+      "numeric_id": 190,
+      "name": "Furious Protector",
+      "text": null,
+      "image": "adset-hirelings-protector-big",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Underworld Expansion",
+      "set": "Underworld Expansion",
+      "source_file": "underworld-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-191",
+      "numeric_id": 191,
+      "name": "Stoic Protector",
+      "text": null,
+      "image": "adset-hirelings-protector-small",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Underworld Expansion",
+      "set": "Underworld Expansion",
+      "source_file": "underworld-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-192",
+      "numeric_id": 192,
+      "name": "Flame Bearers",
+      "text": null,
+      "image": "adset-hirelings-rats-big",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-193",
+      "numeric_id": 193,
+      "name": "Rat Smugglers",
+      "text": null,
+      "image": "adset-hirelings-rats-small",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-194",
+      "numeric_id": 194,
+      "name": "Riverfolk Flotilla",
+      "text": null,
+      "image": "adset-hirelings-riverfolk-big",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Riverfolk Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-195",
+      "numeric_id": 195,
+      "name": "Otter Divers",
+      "text": null,
+      "image": "adset-hirelings-riverfolk-small",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Riverfolk Expansion",
+      "set": "Riverfolk Expansion",
+      "source_file": "riverfolk-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-196",
+      "numeric_id": 196,
+      "name": "The Exile",
+      "text": null,
+      "image": "adset-hirelings-vagabond-big",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-197",
+      "numeric_id": 197,
+      "name": "The Brigand",
+      "text": null,
+      "image": "adset-hirelings-vagabond-small",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-198",
+      "numeric_id": 198,
+      "name": "Spring Uprising",
+      "text": null,
+      "image": "adset-hirelings-woodland-big",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-199",
+      "numeric_id": 199,
+      "name": "Rabbit Scouts",
+      "text": null,
+      "image": "adset-hirelings-woodland-small",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-200",
+      "numeric_id": 200,
+      "name": "Ambush!",
+      "text": "At start of battle, defender may play to deal two immediate hits, then discard. Cancel if attacker plays matching ambush.",
+      "image": "card-ambushbird",
+      "suit": "Bird",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": false,
+      "category": "ambush",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-201",
+      "numeric_id": 201,
+      "name": "Ambush!",
+      "text": "At start of battle, defender may play to deal two immediate hits, then discard. Cancel if attacker plays matching ambush.",
+      "image": "card-ambushbunny",
+      "suit": "Rabbit",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": false,
+      "category": "ambush",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-202",
+      "numeric_id": 202,
+      "name": "Ambush!",
+      "text": "At start of battle, defender may play to deal two immediate hits, then discard. Cancel if attacker plays matching ambush.",
+      "image": "card-ambushfox",
+      "suit": "Fox",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": false,
+      "category": "ambush",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-203",
+      "numeric_id": 203,
+      "name": "Ambush!",
+      "text": "At start of battle, defender may play to deal two immediate hits, then discard. Cancel if attacker plays matching ambush.",
+      "image": "card-ambushmouse",
+      "suit": "Mouse",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": false,
+      "category": "ambush",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-204",
+      "numeric_id": 204,
+      "name": "Anvil",
+      "text": null,
+      "image": "card-anvil",
+      "suit": "Fox",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-205",
+      "numeric_id": 205,
+      "name": "Arms Trader",
+      "text": null,
+      "image": "card-armstrader",
+      "suit": "Bird",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-206",
+      "numeric_id": 206,
+      "name": "A Visit To Friends",
+      "text": null,
+      "image": "card-avisittofriends",
+      "suit": "Rabbit",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-207",
+      "numeric_id": 207,
+      "name": "Bake Sale",
+      "text": null,
+      "image": "card-bakesale",
+      "suit": "Rabbit",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-208",
+      "numeric_id": 208,
+      "name": "Birdy Bindle",
+      "text": null,
+      "image": "card-birdybindle",
+      "suit": "Bird",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-209",
+      "numeric_id": 209,
+      "name": "Crossbow",
+      "text": null,
+      "image": "card-crossbowbird",
+      "suit": "Bird",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-210",
+      "numeric_id": 210,
+      "name": "Crossbow",
+      "text": null,
+      "image": "card-crossbowmouse",
+      "suit": "Mouse",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-211",
+      "numeric_id": 211,
+      "name": "Dominance",
+      "text": "You win the game if you rule two opposite corners at the start of your Birdsong.",
+      "image": "card-dominancebird",
+      "suit": "Bird",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": false,
+      "category": "dominance",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-212",
+      "numeric_id": 212,
+      "name": "Dominance",
+      "text": "You win the game if you rule three bunny clearings at the start of your Birdsong.",
+      "image": "card-dominancebunny",
+      "suit": "Rabbit",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": false,
+      "category": "dominance",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-213",
+      "numeric_id": 213,
+      "name": "Dominance",
+      "text": "You win the game if you rule three fox clearings at the start of your Birdsong.",
+      "image": "card-dominancefox",
+      "suit": "Fox",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": false,
+      "category": "dominance",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-214",
+      "numeric_id": 214,
+      "name": "Dominance",
+      "text": "You win the game if you rule three mouse clearings at the start of your Birdsong.",
+      "image": "card-dominancemouse",
+      "suit": "Mouse",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": false,
+      "category": "dominance",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-215",
+      "numeric_id": 215,
+      "name": "Foxfolk Steel",
+      "text": null,
+      "image": "card-foxfolksteel",
+      "suit": "Fox",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-216",
+      "numeric_id": 216,
+      "name": "Gently Used Knapsack",
+      "text": null,
+      "image": "card-gentlyusedknapsack",
+      "suit": "Fox",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-217",
+      "numeric_id": 217,
+      "name": "Investments",
+      "text": null,
+      "image": "card-investments",
+      "suit": "Mouse",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-218",
+      "numeric_id": 218,
+      "name": "Mouse-in-a-sack",
+      "text": null,
+      "image": "card-mouseinasack",
+      "suit": "Mouse",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-219",
+      "numeric_id": 219,
+      "name": "Protection Racket",
+      "text": null,
+      "image": "card-protectionracket",
+      "suit": "Fox",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-220",
+      "numeric_id": 220,
+      "name": "Root Tea",
+      "text": null,
+      "image": "card-rootteabunny",
+      "suit": "Rabbit",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-221",
+      "numeric_id": 221,
+      "name": "Root Tea",
+      "text": null,
+      "image": "card-rootteafox",
+      "suit": "Fox",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-222",
+      "numeric_id": 222,
+      "name": "Root Tea",
+      "text": null,
+      "image": "card-rootteamouse",
+      "suit": "Mouse",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-223",
+      "numeric_id": 223,
+      "name": "Smuggler's Trail",
+      "text": null,
+      "image": "card-smugglerstrail",
+      "suit": "Rabbit",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Bunny"
+      ]
+    },
+    {
+      "id": "ROOT-224",
+      "numeric_id": 224,
+      "name": "Sword",
+      "text": null,
+      "image": "card-sword",
+      "suit": "Mouse",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-225",
+      "numeric_id": 225,
+      "name": "Travel Gear",
+      "text": null,
+      "image": "card-travelgearfox",
+      "suit": "Fox",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-226",
+      "numeric_id": 226,
+      "name": "Travel Gear",
+      "text": null,
+      "image": "card-travelgearmouse",
+      "suit": "Mouse",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-227",
+      "numeric_id": 227,
+      "name": "Woodland Runners",
+      "text": null,
+      "image": "card-woodlandrunners",
+      "suit": "Bird",
+      "deck": "Exiles & Partisans Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Exiles & Partisans Deck",
+      "set": "Exiles & Partisans Deck",
+      "source_file": "exiles-partisans",
+      "tags": [
+        "Exiles & Partisans Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-228",
+      "numeric_id": 228,
+      "name": "Duchy Easy (Trait)",
+      "text": "Whenever you **Recruit**, instead recruit only one warrior, plus one per Mole showing, into the Burrow.",
+      "image": "difficulty-duchy-easy",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-229",
+      "numeric_id": 229,
+      "name": "Duchy Challenging (Trait)",
+      "text": "Whenever you **Recruit**, instead recruit three warriors, plus one per mole showing, into the Burrow",
+      "image": "difficulty-duchy-challenging",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-230",
+      "numeric_id": 230,
+      "name": "Duchy Nightmare (Trait)",
+      "text": "Whenever you **Recruit**, instead recruit three warriors plus one per mole showing, into the Burrow. At the end of Evening, score 1 VP.",
+      "image": "difficulty-duchy-nightmare",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-231",
+      "numeric_id": 231,
+      "name": "Foundations (Trait)",
+      "text": "Whenever **Cost of Errors** triggers, it now removes the crown from the bottommost swayed minister whose suit **matches** a clearing from which a building was removed.",
+      "image": "trait-duchy-foundations",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-232",
+      "numeric_id": 232,
+      "name": "Investors (Trait)",
+      "text": "Whenever a human triggers **Cost of Errors**, they must discard a card that matches a clearing from which a Duchy building was removed.\nIf they Discard a matching card, the Duchy loses one victory point.\nIf they cannot, the Duchy sways a minister, as in the Sway action, but the minister must also match a clearing of removal.",
+      "image": "trait-duchy-investors",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-233",
+      "numeric_id": 233,
+      "name": "Overwhelm (Trait)",
+      "text": "You now **Dig** twice per turn, and it now requires and moves only three warriors (*not four*).",
+      "image": "trait-duchy-overwhelm",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-234",
+      "numeric_id": 234,
+      "name": "Invaders (Trait)",
+      "text": "The clearing tie for the Dig action is now \"such a clearing that has the most enemy buildings, then the fewest enemy warriors.\"\nIf you cannot build because no building slots are open, battle in each clearing instead.",
+      "image": "trait-duchy-invaders",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-235",
+      "numeric_id": 235,
+      "name": "Corvid Easy (Trait)",
+      "text": "Whenever you **Recruit**, instead place only one warrior in each of two ordered clearings.",
+      "image": "difficulty-corvids-easy",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-236",
+      "numeric_id": 236,
+      "name": "Corvid Challenging (Trait)",
+      "text": "Whenever you **Recruit**, instead place three warriors in each of two ordered clearings.",
+      "image": "difficulty-corvids-challenging",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-237",
+      "numeric_id": 237,
+      "name": "Corvid Nightmare (Trait)",
+      "text": "Whenever you **Recruit**, instead place three warriors in each of two ordered clearings. At the end of Evening, score 1VP",
+      "image": "difficulty-corvids-nightmare",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-238",
+      "numeric_id": 238,
+      "name": "Gamble (Trait)",
+      "text": "Whenever a plot would be flipped, the human with the most faction pieces in the clearing must first guess the plot type. If they're correct the plot flips and scores but does not resolve its When Fipped effect. Then they remove the plot (*scoring a point*). If they're incorrect, you score 1VP.",
+      "image": "trait-corvids-gamble",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-239",
+      "numeric_id": 239,
+      "name": "Backup Plans (Trait)",
+      "text": "Whenever a plot token is removed, place a warrior in the clearing from which the plot was removed.",
+      "image": "trait-corvids-backup-plans",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-240",
+      "numeric_id": 240,
+      "name": "Mastermind (Trait)",
+      "text": "You now **Plot** twice per turn.",
+      "image": "trait-corvids-mastermind",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-241",
+      "numeric_id": 241,
+      "name": "Vendetta (Trait)",
+      "text": "Whenever any pot token is flipped, it has the When Flipped effect of a Bomb plot.",
+      "image": "trait-corvids-vendetta",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-242",
+      "numeric_id": 242,
+      "name": "Corvid Bot Interactions",
+      "text": "When playing with the Corvid human or bot against any bots, use these rules for bombs and snares:\n**Bomb**: When flipped, removed two pieces of each bot in its clearing, warriors first, instead of all their pieces.\n**Snare**: Bots ignore snare tokens for the purpose of targeting clearing to place or move pieces.\nIf a bot would place in a clearing with a snare of move out of a clearing with a snare, remove the snare but do not preform this part of the action.\n(*The Vagabot will continue to move after this happens, exhausting extra items.)",
+      "image": "interaction-corvid",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_reference",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-243",
+      "numeric_id": 243,
+      "name": "Lizards Easy (Trait)",
+      "text": "When you perform **Rituals**, reveal only three cards from your Lost Souls.",
+      "image": "difficulty-lizards-easy",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-244",
+      "numeric_id": 244,
+      "name": "Lizards Challenging (Trait)",
+      "text": "When you perform **Rituals**, instead reveal five cards from your Lost Souls.",
+      "image": "difficulty-lizards-challenging",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-245",
+      "numeric_id": 245,
+      "name": "Lizards Nightmare (Trait)",
+      "text": "When you perform **Rituals**, instead reveal five cards from your Lost Souls. At the end of Evening, score 1VP",
+      "image": "difficulty-lizards-nightmare",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-246",
+      "numeric_id": 246,
+      "name": "Spiteful (Trait)",
+      "text": "Whenever you **Crusade**, score one extra victory point if you remove any tokens.",
+      "image": "trait-lizards-spiteful",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-247",
+      "numeric_id": 247,
+      "name": "Erratic (Trait)",
+      "text": "At the end of your turn, draw a card and add it to your Lost Souls.",
+      "image": "trait-lizards-erratic",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-248",
+      "numeric_id": 248,
+      "name": "Fanatics (Trait)",
+      "text": "Whenever you **Convert**, battle in that clearing after converting the warrior. In this battle, deal an extra hit.\n(***Player Tie:** Target player with most defenseless buildings, then most points.*)",
+      "image": "trait-lizards-fanatics",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-249",
+      "numeric_id": 249,
+      "name": "Martyrs (Trait)",
+      "text": "Whenever you perform a bird ritual, also place a warrior from your supply into your Acolytes box.",
+      "image": "trait-lizards-martyrs",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-250",
+      "numeric_id": 250,
+      "name": "Riverfolk Easy (Trait)",
+      "text": "Whenever you **Build and Garrison**, place no warrior at the trade post.",
+      "image": "difficulty-riverfolk-easy",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-251",
+      "numeric_id": 251,
+      "name": "Riverfolk Challenging (Trait)",
+      "text": "Whenever you **Build and Garrison**, instead place two warriors at the trade post.",
+      "image": "difficulty-riverfolk-challenging",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-252",
+      "numeric_id": 252,
+      "name": "Riverfolk Nightmare (Trait)",
+      "text": "Whenever you **Build and Garrison**, instead place two warriors at the trade post. At the end of Evening, score 1VP",
+      "image": "difficulty-riverfolk-nightmare",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-253",
+      "numeric_id": 253,
+      "name": "Greedy (Trait)",
+      "text": "Score 1VP whenever the player with the most points buys any number of your services.",
+      "image": "trait-riverfolk-greedy",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-254",
+      "numeric_id": 254,
+      "name": "Involved (Trait)",
+      "text": "If a human does not buy your Mercenaries service on their turn, treat your warriors as if all of that player's enemies bought Mercenaries. The Vagabond can buy Mercenaries to avoid this penalty but does not benefit from the service.",
+      "image": "trait-riverfolk-involved",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-255",
+      "numeric_id": 255,
+      "name": "Garrison (Trait)",
+      "text": "As defender in battle, you are never defenseless, and your trade posts each add one to your maximum rolled hits.",
+      "image": "trait-riverfolk-garrison",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-256",
+      "numeric_id": 256,
+      "name": "Ferocious (Trait)",
+      "text": "As attack in battle, your maximum rolled hits is always three.",
+      "image": "trait-riverfolk-ferocious",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-257",
+      "numeric_id": 257,
+      "name": "Riverfolk Basic Services (1 of 3)",
+      "text": "Bots may buy services at any time on their turn. When buying from the Riverfolks bot, they may buy any number of services. (*Follow the normal limit for a Riverfolk human.*)\nBots must be able to afford the services, and they will not buy services if they have fewer points than the Riverfolks huan or bot.\nThe service cost depends on the bot's score: 0-9VP=2 / 10-19VP=3 / 20+VP=4",
+      "image": "riverfolk-basic-services-01",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_reference",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-258",
+      "numeric_id": 258,
+      "name": "Riverfolk Basic Services (2 of 3)",
+      "text": "**Hand Card:** When a bot tries to craft but its card has no available item, it buys a Market card that has an available item. This card replaces the card that the bot tried to craft, which is discarded. (*This can change the order card.)\nIf there are multiple Market cards with an available item, the bot buys the one that has the highest listed points. If there are multiple such cards, choose one at random.\n**Riverboats:** Bots do no buy the Riverboats service.",
+      "image": "riverfolk-basic-services-02",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_reference",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-259",
+      "numeric_id": 259,
+      "name": "Riverfolk Basic Services (3 of 3)",
+      "text": "**Mercenaries:** If you battle in a clearing with two or fewer of your warriors, buy Mercenaries if any Riverfolk warriors are there.\nIf you want to place a building but you cannot place it anywhere, buy Mercenaries if it will let you place a building somewhere.\n**Vagabot:** Exhaust one item for each service bought.\nPay with Riverfolk warriors.\nYou cannot buy mercenaries.\n**Automated Alliance:** Pay with Riverfolk warriors\n**Logical Lizards:** Never buy bird cards.",
+      "image": "riverfolk-basic-services-03",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_reference",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-260",
+      "numeric_id": 260,
+      "name": "Riverfolk Introduction to Advanced Services",
+      "text": "You may use any Advanced Services cards to improve the interactions of specific bots with the Riverfolk human or bot.\nIf there is a rules conflict, the Advanced Services cards take precedence over the Basic Services cards.",
+      "image": "riverfolk-advanced-services-intro",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_reference",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-261",
+      "numeric_id": 261,
+      "name": "Riverfolk Advanced Services for Mechanical Marquise 2.0",
+      "text": "**Hand Card:**  If the Market has multiple cards with available items, buy a bird card if there is one.\nIf no Market cards have an available item and your order card is not a bird, buy a bird card. If there are multiple, choose one at random.",
+      "image": "riverfolk-advanced-services-marquise",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_reference",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-262",
+      "numeric_id": 262,
+      "name": "Riverfolk Advanced Services for Electric Eyrie",
+      "text": "**Hand Card:**  If your order card's suit is already in the Decree and there is a Market card whose suit is not in the Decree, buy it to replace your order card, discarding it.\nIf there are multiple such cards, choose one at random. Otherwise, follow the Basic Services rules.\n**Riverboats:** When targeting clearings for your Move action, treat rivers as paths. If you do move along a river, buy Riverboats.",
+      "image": "riverfolk-advanced-services-eyrie",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_reference",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-263",
+      "numeric_id": 263,
+      "name": "Riverfolk Advanced Services for Automated Alliance",
+      "text": "**Hand Card:** If the Market has mulitple cards with available items, buy a bird card if there is one.\nIf no Market cards have an available item and our order card is not a bird, buy a bird card if there is one. If there are multiple, choose one at random.",
+      "image": "riverfolk-advanced-services-woodland",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_reference",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-264",
+      "numeric_id": 264,
+      "name": "Riverfolk Advanced Services for Vagabot",
+      "text": "**Riverboats:** When targeting clearings for any action, treat rivers as paths. If you do move along a river, buy Riverboats and do not exhaust the item for the move.",
+      "image": "riverfolk-advanced-services-vagabot",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_bot",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-265",
+      "numeric_id": 265,
+      "name": "Riverfolk Advanced Services for Logical Lizards",
+      "text": "**Hand Card:**  If ther eare fewer than five cards in your Lost Souls, buy non-bird cards until this is not true.\nDo this even if the Riverfolk human or bot has more points than you.",
+      "image": "riverfolk-advanced-services-lizards",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_reference",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-266",
+      "numeric_id": 266,
+      "name": "Riverfolk Advanced Services for Cogwheel Corvids",
+      "text": "**Hand Card:**  At the start of your turn, if the Market has a \"Favor of the...\" card, buy it and resolve its effect.",
+      "image": "riverfolk-advanced-services-corvids",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_reference",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-267",
+      "numeric_id": 267,
+      "name": "Riverfolk Advanced Services for Drillbit Duchy",
+      "text": "**Hand Card:**  At the start of your turn, if the Market has an ambush card, buy it and place it in front of you.\nAs defender in battle, play an ambush card is you have one in front of you. If you have both a matching non-bird ambush and a bird ambush, play the non-bird ambush.\n(*The attacker may play an ambush to cancel this.*)",
+      "image": "riverfolk-advanced-services-duchy",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_reference",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-268",
+      "numeric_id": 268,
+      "name": "Marquise de Cat (Advanced Setup)",
+      "text": "**1st:** Choose 3 homeland clearings, each adjacent to one other.\n**2nd:** Put 2 **warriors** in each of your homelands. Put 1 **warrior** in each other clearing.\n**3rd:** Put the **keep token** in one of your homelands, not adjacent to an enemy homeland if able. Put 1 **sawmill, workshop,** and **recruiter** on the map, each in a different homeland of yours.\n**4th:** Fill your Buildings track with you **buildings**, except the leftmost spaces.",
+      "image": "adv-setup-marquise",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder",
+        "Advanced Setup"
+      ]
+    },
+    {
+      "id": "ROOT-269",
+      "numeric_id": 269,
+      "name": "Eyrie Dynasties (Advanced Setup)",
+      "text": "**1st:** Choose a homeland clearing on the map edge that has 2+ clearings between it and enemy homelands.\n**2nd:** Put 6 **warriors** and 1 **roost** in your homeland.\n**3rd:** Put any **leader card** on your Leader Card slot. Keep the other 3 leaders face up nearby.\n**4th:** Tuck you 2 **Loyal Viziers** under the Decree column slots as listed on your current leader.\n**5th:** Fill your Roosts spaces with **rosts**, except the leftmost.",
+      "image": "adv-setup-eyrie",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder",
+        "Advanced Setup"
+      ]
+    },
+    {
+      "id": "ROOT-270",
+      "numeric_id": 270,
+      "name": "Woodland Alliance (Advanced Setup)",
+      "text": "**1st:** Draw 3 **cards** and add them face down to your Supporters stack.\n**2nd:** Fill your Sypathy track with **sympathy tokens.**\n**3rd:** Put your 3 **bases** on your matching Bases spaces.",
+      "image": "adv-setup-woodland",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder",
+        "Advanced Setup"
+      ]
+    },
+    {
+      "id": "ROOT-271",
+      "numeric_id": 271,
+      "name": "Vagabond (Advanced Setup)",
+      "text": "**1st:** Put your **pawn** in any forest.\n**2nd:** Shuffle the quest deck. Draw 3 **quests* to deal out nearby\n**3rd:** put the 4 **\"R\" items** under the ruins randomly, unless a non-vagabond has done so.\n**4th:** Put your assigned **character card** in your Character Card slot. Put the listed **\"S\" items** in your Satchel and on their matching tracks, as needed.\n**5th:** put **relationship markers* for non-Vagabond factions in play on the Indifferent space of Relationships (*after setup*).",
+      "image": "adv-setup-vagabond",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder",
+        "Advanced Setup"
+      ]
+    },
+    {
+      "id": "ROOT-272",
+      "numeric_id": 272,
+      "name": "Lizards Cult (Advanced Setup)",
+      "text": "**1st:** Choose a homeland clearing that is not adjacent to enemy homelands.\n**2nd:** put 4 **warriors** and 1 matching **garden** in your h omeland. Put 3 **warriors** in clearings adjacent to it as evenly as possible\n**3rd:** put 2 **warriors** in your Acolytes box.\n**4th:** Fill your Gardens tracks with **gardens**, except the leftmost space of the garden on the map.\n**5th:** Put your **outcast marker** on its Outcast side on any space of the Outcast box.",
+      "image": "adv-setup-lizards",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder",
+        "Advanced Setup"
+      ]
+    },
+    {
+      "id": "ROOT-273",
+      "numeric_id": 273,
+      "name": "Riverfolk Company (Advanced Setup)",
+      "text": "**1st:** Put 4 **warriors** among any clearings along the river.\n**2nd:** Put 3 **warriors** in your Payments box.\n**3rd:** Fill your Trade Posts tracks with matching **trade posts**.\n**4th:** Put your 3 **service markers** on your Services track, setting a price for each service.",
+      "image": "adv-setup-riverfolk",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder",
+        "Advanced Setup"
+      ]
+    },
+    {
+      "id": "ROOT-274",
+      "numeric_id": 274,
+      "name": "Underground Duchy (Advanced Setup)",
+      "text": "**1st:** Choose a homeland clearing that is not adjacent to enemy homelands.\n**2nd:** Put 2 **warriors** and 1 **tunnel** in your  homeland. put 5 **warriors** among clearings adjacent to it as evenly as possible\n**3rd:** Put your **burrow board** near the map. Fill your Buildings tracks with your **citadels** and **markets**. Put your 9 **minister cards** face up on your Unswayed Ministers pile. Put your 9 **crowns** on the square spaces showing victory points.",
+      "image": "adv-setup-duchy",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder",
+        "Advanced Setup"
+      ]
+    },
+    {
+      "id": "ROOT-275",
+      "numeric_id": 275,
+      "name": "Corvid Conspiracy (Advanced Setup)",
+      "text": "**1st:** Choose a homeland clearing. Put 1 **warrior** and 1 **plot token** of yoru choice face down there.\n**2nd:** Put 1 **warrior** in a clearing of each suit. (*Counting the previous step, place 4 warriors in total.)",
+      "image": "adv-setup-corvid",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder",
+        "Advanced Setup"
+      ]
+    },
+    {
+      "id": "ROOT-276",
+      "numeric_id": 276,
+      "name": "Lord of the Hundreds (Advanced Setup)",
+      "text": "**1st:** Choose a homeland clearing on the map edge that has 2+ clearings between it and enemy homelands.\n**2nd:** Put your **warlord**, 4 **warriors**, and 1 **stronghold** in your homeland.\n**3rd:** Put your **Stubborn mood card** in your Mood Card slot.\n**4th:** TPut the 4 **\"R\" items** under the ruins randomly, unless this has already been done.",
+      "image": "adv-setup-hundreds",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder",
+        "Advanced Setup"
+      ]
+    },
+    {
+      "id": "ROOT-277",
+      "numeric_id": 277,
+      "name": "Keepers in Iron (Advanced Setup)",
+      "text": "**1st:** Shuffle all 12 **relic tokens* face down. Put on face down randomly in each forest.\n**2nd:** Choose 2 adjacent homeland clearings on the map edge that have 2+ clearings between them and enemy homelands. Put 4 **warriors* in each homeland.\n**3rd:** Put any remaning **relics**, as evenly as possible, among any forests that are not adjacent to your homelands.\n**4th:** Tuck a **Fathful Retainer card** into each of your Retinue column slots.",
+      "image": "adv-setup-keepers",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Marauders Expansion",
+      "set": "Marauders Expansion",
+      "source_file": "marauders",
+      "tags": [
+        "Marauder",
+        "Advanced Setup"
+      ]
+    },
+    {
+      "id": "ROOT-278",
+      "numeric_id": 278,
+      "name": "Overwhelming (Trait)",
+      "text": "Whenever you **Recruit**, score one point for every two warriors you cannot place because your supply is empty or beacause there are no legal clearings to place them in.\n**Expand** can only trigger once per turn.",
+      "image": "trait-marquise-overwhelming",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-279",
+      "numeric_id": 279,
+      "name": "Focused (Trait)",
+      "text": "In battle, deal the extra hit even if the Battle colums is tied for most cards.",
+      "image": "trait-eyrie-focused",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-280",
+      "numeric_id": 280,
+      "name": "Steadfast (Trait)",
+      "text": "Skip **Public Pity** if Surprise Revolt will happen this turn. (*Take only one of these actions each turn.*)\nIgnore **Martial Law**.",
+      "image": "trait-woodland-steadfast",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-281",
+      "numeric_id": 281,
+      "name": "Questing (Trait)",
+      "text": "Count damaged items toward the 6/9/12 items needed to place items on your Battle Track. Items cannot be removed from the Battle Track.\nQuests score an extra victory point.\nWhenever you **Aid**, move to the nearest clearing that has a player with any items in their Crafted Items box, but only aid them once.\nUse these updated Daylight Actions:",
+      "image": "trait-vagabot-questing",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_trait",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-282",
+      "numeric_id": 282,
+      "name": "Ranger (Vagabot)",
+      "text": "**Hideout**\nIf you have three or more damaged items, slip into a random adjacent forest.",
+      "image": "vagabot-character-ranger",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_bot",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-283",
+      "numeric_id": 283,
+      "name": "Tinker (Vagabot)",
+      "text": "**Day Labor**\nSearch the discard pile for the top card with an available item and craft it, scoring 1VP\n(*Start the game with one fewer item.*)",
+      "image": "vagabot-character-tinker",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_bot",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-284",
+      "numeric_id": 284,
+      "name": "Theif (Vagabot)",
+      "text": "**Steal**\nTake a random card from the enemy in your clearing with the most points there, then most pieces there.",
+      "image": "vagabot-character-thief",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_bot",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork1",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-285",
+      "numeric_id": 285,
+      "name": "Arbiter (Vagabot)",
+      "text": "Before rolling in battle, the defender may inlist you if you're in the battle claering. If so, you score a point and add the number of items on your Battle Track to their maximum rolled hits.\nBots will enlist you if their maximum rolled hits is less than three, their maximum hits is less than the attacker's pieces there, and you have fewer point than the defender.",
+      "image": "vagabot-character-arbiter",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_bot",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-286",
+      "numeric_id": 286,
+      "name": "Vagrant (Vagabot)",
+      "text": "Initiate a battle in your clearing. You choose both attacker and defender, and you remove pieces for each.",
+      "image": "vagabot-character-vagrant",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_bot",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-287",
+      "numeric_id": 287,
+      "name": "Scoundrel (Vagabot)",
+      "text": "If your clearing has three or more enemy pieces and a building or token, remove all enemy pieces there, place any item from your board on a building slot there, and score one point. Buildings cannot be placed in the covered slot.",
+      "image": "vagabot-character-scoundrel",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clockwork_bot",
+      "expansion": "Clockwork Expansion",
+      "set": "Clockwork Expansion",
+      "source_file": "clockwork2",
+      "tags": [
+        "Clockwork"
+      ]
+    },
+    {
+      "id": "ROOT-288",
+      "numeric_id": 288,
+      "name": "Knave Captain Adventurer",
+      "text": "After you place acclaim at a ruin, draw 1 card.",
+      "image": "knave-captain-adventurer",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_captain",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Captain"
+      ]
+    },
+    {
+      "id": "ROOT-289",
+      "numeric_id": 289,
+      "name": "Knave Captain Arbiter",
+      "text": "In Assault battles, you may take 1 extra hit to deal 1 extra hit.",
+      "image": "knave-captain-arbiter",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_captain",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "+",
+        "Captain"
+      ]
+    },
+    {
+      "id": "ROOT-290",
+      "numeric_id": 290,
+      "name": "Knave Captain Cheat",
+      "text": "As an action, you may flip two items down to take any item action.",
+      "image": "knave-captain-cheat",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_captain",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Captain"
+      ]
+    },
+    {
+      "id": "ROOT-291",
+      "numeric_id": 291,
+      "name": "Knave Captain Gladiator",
+      "text": "When you Assault, draw 1 card at the start of battle.",
+      "image": "knave-captain-gladiator",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_captain",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Captain"
+      ]
+    },
+    {
+      "id": "ROOT-292",
+      "numeric_id": 292,
+      "name": "Knave Captain Harrier",
+      "text": "When you Dash, you may move the Harrier up to three times, ignoring rule.",
+      "image": "knave-captain-harrier",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_captain",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Captain"
+      ]
+    },
+    {
+      "id": "ROOT-293",
+      "numeric_id": 293,
+      "name": "Knave Captain Jailor",
+      "text": "In Nab battles, you may deal 1 less hit to ignore 1 rolled hit you take.",
+      "image": "knave-captain-jailor",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_captain",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Captain"
+      ]
+    },
+    {
+      "id": "ROOT-294",
+      "numeric_id": 294,
+      "name": "Knave Captain Ranger",
+      "text": "Once per turn, as an action, you may flip any item down to Assault, Skirmish, or Nab.",
+      "image": "knave-captain-ranger",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_captain",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Captain"
+      ]
+    },
+    {
+      "id": "ROOT-295",
+      "numeric_id": 295,
+      "name": "Knave Captain Ronin",
+      "text": "When you Assault, the Ronin may move before the battle begins.",
+      "image": "knave-captain-ronin",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_captain",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Captain"
+      ]
+    },
+    {
+      "id": "ROOT-296",
+      "numeric_id": 296,
+      "name": "Knave Captain Scoundrel",
+      "text": "When you Skirmish, you may instead move from a clearing before the battle. If you do, do not ignore 1 hit.",
+      "image": "knave-captain-scoundrel",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_captain",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Captain"
+      ]
+    },
+    {
+      "id": "ROOT-297",
+      "numeric_id": 297,
+      "name": "Knave Captain Thief",
+      "text": "After you Filch, you may move the Thief.",
+      "image": "knave-captain-thief",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_captain",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Captain"
+      ]
+    },
+    {
+      "id": "ROOT-298",
+      "numeric_id": 298,
+      "name": "Knave Captain Tinker",
+      "text": "After you Serve, draw 1 card.",
+      "image": "knave-captain-tinker",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_captain",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Captain"
+      ]
+    },
+    {
+      "id": "ROOT-299",
+      "numeric_id": 299,
+      "name": "Knave Captain Vagrant",
+      "text": "Once per turn, as an action, you may flip any item down to Revel, Gift, or Serve.",
+      "image": "knave-captain-vagrant",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_captain",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Captain"
+      ]
+    },
+    {
+      "id": "ROOT-300",
+      "numeric_id": 300,
+      "name": "Vagabond Gladiator",
+      "text": "Duel: Once per turn, as an action, you may flip any item down to Revel, Gift, or Serve.",
+      "image": "vagabond-gladiator",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "vagabond_role",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Vagabond"
+      ]
+    },
+    {
+      "id": "ROOT-301",
+      "numeric_id": 301,
+      "name": "Vagabond Jailor",
+      "text": "Coerce: Once per turn, you may spend a card matching your clearing to treat it as exhausting any item. After its action, lose 1 victory point.",
+      "image": "vagabond-jailor",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "vagabond_role",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Vagabond"
+      ]
+    },
+    {
+      "id": "ROOT-302",
+      "numeric_id": 302,
+      "name": "Vagabond Cheat",
+      "text": "Con: Quest, ignoring its listed items, then shuffle the completed quest into the quest deck. Limited to once per turn.",
+      "image": "vagabond-cheat",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "vagabond_role",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Vagabond"
+      ]
+    },
+    {
+      "id": "ROOT-303",
+      "numeric_id": 303,
+      "name": "Rabbit Laborers",
+      "text": "At the start of Evening, you may craft with Peaceful enclaves in rabbit clearings, even if used to craft in earlier steps.",
+      "image": "card-rabbitlaborers",
+      "suit": "Frog",
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_frog",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Frog"
+      ]
+    },
+    {
+      "id": "ROOT-304",
+      "numeric_id": 304,
+      "name": "Mouse Laborers",
+      "text": "At the start of Evening, you may craft with Peaceful enclaves in mouse clearings, even if used to craft in earlier steps.",
+      "image": "card-mouselaborers",
+      "suit": "Frog",
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_frog",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Frog"
+      ]
+    },
+    {
+      "id": "ROOT-305",
+      "numeric_id": 305,
+      "name": "Fox Laborers",
+      "text": "At the start of Evening, you may craft with Peaceful enclaves in fox clearings, even if used to craft in earlier steps.",
+      "image": "card-foxlaborers",
+      "suit": "Frog",
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_frog",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Frog"
+      ]
+    },
+    {
+      "id": "ROOT-306",
+      "numeric_id": 306,
+      "name": "Companions",
+      "text": "You may spend or reveal a frog (even ambush) as another suit (even bird). If you do, discard this.",
+      "image": "card-companions",
+      "suit": "Frog",
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_frog",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Frog"
+      ]
+    },
+    {
+      "id": "ROOT-307",
+      "numeric_id": 307,
+      "name": "Stewards",
+      "text": "Draw and craft the top Pond card at no crafting cost. Discard this.",
+      "image": "card-stewards",
+      "suit": "Frog",
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_frog",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Frog"
+      ]
+    },
+    {
+      "id": "ROOT-308",
+      "numeric_id": 308,
+      "name": "Settlers",
+      "text": "Force the Diaspora to move once as you choose. Discard this.",
+      "image": "card-settlers",
+      "suit": "Frog",
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_frog",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Frog"
+      ]
+    },
+    {
+      "id": "ROOT-309",
+      "numeric_id": 309,
+      "name": "Agitators",
+      "text": "Force the Diaspora to battle where you choose against a defender you choose. Discard this.",
+      "image": "card-agitators",
+      "suit": "Frog",
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_frog",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Frog"
+      ]
+    },
+    {
+      "id": "ROOT-310",
+      "numeric_id": 310,
+      "name": "Advocates",
+      "text": "At start of Birdsong, you must choose a clearing suit except frog and score 1 point per matching Peaceful enclave you rule, then discard this.",
+      "image": "card-advocates",
+      "suit": "Frog",
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_frog",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Frog"
+      ]
+    },
+    {
+      "id": "ROOT-311",
+      "numeric_id": 311,
+      "name": "Militias",
+      "text": "Flip a Peaceful enclave to Militant or place a Militant enclave in a clearing with no enclaves. Discard this.",
+      "image": "card-militias",
+      "suit": "Frog",
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_frog",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Frog"
+      ]
+    },
+    {
+      "id": "ROOT-312",
+      "numeric_id": 312,
+      "name": "Assimilationists",
+      "text": "Remove a Peaceful enclave you rule to draw 1 card and force the Diaspora to draw 1 card. Ignore Fears Come to Pass. Discard this.",
+      "image": "card-assimilationists",
+      "suit": "Frog",
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_frog",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Frog"
+      ]
+    },
+    {
+      "id": "ROOT-313",
+      "numeric_id": 313,
+      "name": "Ambush",
+      "text": "In battle in a matching clearing, you may spend this to ambush: As defender,\n deal 2 hits immediately. As attacker, cancel the defender's ambush. Discard\nthis to the Pond bottom.",
+      "image": "card-frogambush",
+      "suit": "Frog",
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_frog",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Frog"
+      ]
+    },
+    {
+      "id": "ROOT-314",
+      "numeric_id": 314,
+      "name": "Frog Partisans",
+      "text": "In battle in frog clearings, you may deal one extra hit, then discard all your cards except frogs.",
+      "image": "card-frogpartisans",
+      "suit": "Frog",
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_frog",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Frog"
+      ]
+    },
+    {
+      "id": "ROOT-315",
+      "numeric_id": 315,
+      "name": "Dominance",
+      "text": "At start of Birdsong, you win the game if you rule a least 2 river enclaves. When enclaves are defending, your warriors add to the Diaspora's, taking hits after theirs, unless you're attacking.",
+      "image": "card-frogdominance",
+      "suit": "Frog",
+      "deck": null,
+      "craftable": false,
+      "category": "homeland_frog",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Frog"
+      ]
+    },
+    {
+      "id": "ROOT-316",
+      "numeric_id": 316,
+      "name": "Twilight Intro",
+      "text": null,
+      "image": "card-batintro",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "learn_to_play",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Learn to Play"
+      ]
+    },
+    {
+      "id": "ROOT-317",
+      "numeric_id": 317,
+      "name": "Lilypad Intro",
+      "text": null,
+      "image": "card-frogintro",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "learn_to_play",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Learn to Play"
+      ]
+    },
+    {
+      "id": "ROOT-318",
+      "numeric_id": 318,
+      "name": "Knaves Intro",
+      "text": null,
+      "image": "card-skunkintro",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "learn_to_play",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Learn to Play"
+      ]
+    },
+    {
+      "id": "ROOT-319",
+      "numeric_id": 319,
+      "name": "ADSET:Twilight Council",
+      "text": null,
+      "image": "card-batadset",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "ADSET"
+      ]
+    },
+    {
+      "id": "ROOT-320",
+      "numeric_id": 320,
+      "name": "ADSET:Knaves of the Deepwood",
+      "text": null,
+      "image": "card-skunkadset",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "ADSET"
+      ]
+    },
+    {
+      "id": "ROOT-321",
+      "numeric_id": 321,
+      "name": "ADSET:Lilypad Diaspora",
+      "text": null,
+      "image": "card-frogadset",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "advanced_setup",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "ADSET"
+      ]
+    },
+    {
+      "id": "ROOT-322",
+      "numeric_id": 322,
+      "name": "Foxburrow",
+      "text": null,
+      "image": "landmark-foxburrow",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Landmark"
+      ]
+    },
+    {
+      "id": "ROOT-323",
+      "numeric_id": 323,
+      "name": "Foxburrow (Setup)",
+      "text": null,
+      "image": "landmark-foxburrow-setup",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Landmark"
+      ]
+    },
+    {
+      "id": "ROOT-324",
+      "numeric_id": 324,
+      "name": "Rabbittown",
+      "text": null,
+      "image": "landmark-rabbittown",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Landmark"
+      ]
+    },
+    {
+      "id": "ROOT-325",
+      "numeric_id": 325,
+      "name": "Rabbittown (Setup)",
+      "text": null,
+      "image": "landmark-rabbittown-setup",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Landmark"
+      ]
+    },
+    {
+      "id": "ROOT-326",
+      "numeric_id": 326,
+      "name": "Mousehold",
+      "text": null,
+      "image": "landmark-mousehold",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Landmark"
+      ]
+    },
+    {
+      "id": "ROOT-327",
+      "numeric_id": 327,
+      "name": "Mousehold (Setup)",
+      "text": null,
+      "image": "landmark-mousehold-setup",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "landmark",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Landmark"
+      ]
+    },
+    {
+      "id": "ROOT-328",
+      "numeric_id": 328,
+      "name": "Lilypad/Lizard Clarification",
+      "text": null,
+      "image": "clarification-lilypadcult",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clarification",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Clarification"
+      ]
+    },
+    {
+      "id": "ROOT-329",
+      "numeric_id": 329,
+      "name": "Knaves/Keepers Clarification",
+      "text": null,
+      "image": "clarification-knaveskeepers",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clarification",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Clarification"
+      ]
+    },
+    {
+      "id": "ROOT-330",
+      "numeric_id": 330,
+      "name": "Knaves/Hundreds Clarification",
+      "text": null,
+      "image": "clarification-knaveshundreds",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clarification",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Clarification"
+      ]
+    },
+    {
+      "id": "ROOT-331",
+      "numeric_id": 331,
+      "name": "Lilypad/Alliance Clarification",
+      "text": null,
+      "image": "clarification-lilypadalliance",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "clarification",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland",
+      "tags": [
+        "Homeland",
+        "Clarification"
+      ]
+    },
+    {
+      "id": "ROOT-332",
+      "numeric_id": 332,
+      "name": "Sky Couriers",
+      "text": "At start of Birdsong, you may spend at least one card to draw one card for each spent plus one, then discard this.",
+      "image": "card-skycouriers",
+      "suit": "Bird",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-333",
+      "numeric_id": 333,
+      "name": "Shadow Council",
+      "text": "At start of Birdsong, you must spend a card to force a player to battle in a matching clearing against a defender you choose, then return this to hand.",
+      "image": "card-shadowcouncil",
+      "suit": "Bird",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-334",
+      "numeric_id": 334,
+      "name": "Feather Rufflers",
+      "text": "Place two warriors in a clearing with your pieces. Discard this.",
+      "image": "card-featherrufflers",
+      "suit": "Bird",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-335",
+      "numeric_id": 335,
+      "name": "Spy Network",
+      "text": "Give a card to an enemy to take a crafted card from them into your hand. Shuffle this into the deck.",
+      "image": "card-spynetwork",
+      "suit": "Bird",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-336",
+      "numeric_id": 336,
+      "name": "Silver-Tongue",
+      "text": "During any one effect on your turn (action, ability, card, etc.), you may spend this or another card to treat a matching clearing with your pieces as one you rule.",
+      "image": "card-silvertongue",
+      "suit": "Bird",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Bird"
+      ]
+    },
+    {
+      "id": "ROOT-337",
+      "numeric_id": 337,
+      "name": "Fox Squires",
+      "text": "Once in Daylight, you may spend this or a fox card to battle in or move from a fox clearing.",
+      "image": "card-foxsquires",
+      "suit": "Fox",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-338",
+      "numeric_id": 338,
+      "name": "Apprentice",
+      "text": "At start of Birdsong, you must craft a card at no crafting cost. If you do, discard this. If you cannot, show you hand.",
+      "image": "card-apprentice",
+      "suit": "Fox",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-339",
+      "numeric_id": 339,
+      "name": "Supply Train",
+      "text": "After moving on your turn, you may return this to hand to move to or from your destination, even during a compound action (like March).",
+      "image": "card-supplytrain",
+      "suit": "Fox",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-340",
+      "numeric_id": 340,
+      "name": "Friend of the Foxes",
+      "text": "Once each turn, you may spend or reveal one fox card (even ambush) as another suit (even bird). You cannot craft other Friend cards.",
+      "image": "card-friendofthefoxes",
+      "suit": "Fox",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-341",
+      "numeric_id": 341,
+      "name": "Tactician",
+      "text": "In battle, before the roll, you may return this to hand to move once to the battle clearing.",
+      "image": "card-tactician",
+      "suit": "Fox",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-342",
+      "numeric_id": 342,
+      "name": "Bold Leadership",
+      "text": "When attacking in battle, you must deal one extra hit, then either return this to hand or spend a card matching the battle clearing.",
+      "image": "card-boldleadership",
+      "suit": "Fox",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Fox"
+      ]
+    },
+    {
+      "id": "ROOT-343",
+      "numeric_id": 343,
+      "name": "Friend of the Mice",
+      "text": "Once each turn, you may spend or reveal on mouse card (even ambush) as another suit (even bird). You cannot craft other Friend cards.",
+      "image": "card-friendofthemice",
+      "suit": "Mouse",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-344",
+      "numeric_id": 344,
+      "name": "Brazen Demagogue",
+      "text": "At end of Evening, you must take an available dominance card and discard this. You may activate it except to coalition. Do not remove your victory point marker.",
+      "image": "card-brazendemagogue",
+      "suit": "Mouse",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-345",
+      "numeric_id": 345,
+      "name": "Raiding Party",
+      "text": "After moving on your turn, you may return this to hand to battle in the destination, even during a compound action (like March).",
+      "image": "card-raidingparty",
+      "suit": "Mouse",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-346",
+      "numeric_id": 346,
+      "name": "Mouse Squires",
+      "text": "Once in Daylight, you may spend this or a mouse card to battle in or move from a mouse clearing.",
+      "image": "card-mousesquires",
+      "suit": "Mouse",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-347",
+      "numeric_id": 347,
+      "name": "Mice-in-a-Bush",
+      "text": "When defending in battle, you may spend this or a card matching the battle clearing to ambush: deal one hit immediately.",
+      "image": "card-miceinabush",
+      "suit": "Mouse",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Mouse"
+      ]
+    },
+    {
+      "id": "ROOT-348",
+      "numeric_id": 348,
+      "name": "Rabbit Squires",
+      "text": "Once in Daylight, you may spend this or a rabbit card to battle in or move from a rabbit clearing.",
+      "image": "card-rabbitsquires",
+      "suit": "Rabbit",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Rabbit"
+      ]
+    },
+    {
+      "id": "ROOT-349",
+      "numeric_id": 349,
+      "name": "Riversteads",
+      "text": "At start of Birdsong, you must draw one card per river clearing with your pieces, \n then discard this.",
+      "image": "card-riversteads",
+      "suit": "Rabbit",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Rabbit"
+      ]
+    },
+    {
+      "id": "ROOT-350",
+      "numeric_id": 350,
+      "name": "Hidden Warrens",
+      "text": "At start of Birdsong, you may return this to hand to move from a clearing to any clearing of the same suit, ignoring rule and paths.",
+      "image": "card-hiddenwarrens",
+      "suit": "Rabbit",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Rabbit"
+      ]
+    },
+    {
+      "id": "ROOT-351",
+      "numeric_id": 351,
+      "name": "Standard Bearer",
+      "text": "After attacking in battle, you may return this to hand to battle in the same clearing, even during a compound action (like Delve).",
+      "image": "card-standardbearer",
+      "suit": "Rabbit",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Rabbit"
+      ]
+    },
+    {
+      "id": "ROOT-352",
+      "numeric_id": 352,
+      "name": "Lookouts",
+      "text": "As defender in battle, before the roll, you must place one warrior in the battle clearing, then return this to hand or spend a card matching the clearing.",
+      "image": "card-lookouts",
+      "suit": "Rabbit",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Rabbit"
+      ]
+    },
+    {
+      "id": "ROOT-353",
+      "numeric_id": 353,
+      "name": "Friend of the Rabbits",
+      "text": "Once each turn, you may spend or reveal one rabbit card (even ambush) as\n another suit (even bird). You cannot craft other Friend cards.",
+      "image": "card-friendoftherabbits",
+      "suit": "Rabbit",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Rabbit"
+      ]
+    },
+    {
+      "id": "ROOT-354",
+      "numeric_id": 354,
+      "name": "The Faithful",
+      "text": "In battle, you may deal one extra hit. If so, reveal and discard the top card of the deck. If it doesn't match the battle clearing, discard this card too.",
+      "image": "card-thefaithful",
+      "suit": "Rabbit",
+      "deck": "Squires & Disciples Deck",
+      "craftable": true,
+      "category": "craft_card",
+      "expansion": "Squires & Disciples Deck",
+      "set": "Squires & Disciples Deck",
+      "source_file": "squires-disciples",
+      "tags": [
+        "Squires & Disciples Deck",
+        "Craftable",
+        "Rabbit"
+      ]
+    },
+    {
+      "id": "ROOT-355",
+      "numeric_id": 355,
+      "name": "Bat Messengers",
+      "text": null,
+      "image": "adset-hirelings-council-small",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-356",
+      "numeric_id": 356,
+      "name": "Sunny Advocates",
+      "text": null,
+      "image": "adset-hirelings-council-big",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-357",
+      "numeric_id": 357,
+      "name": "Frog Tinkers",
+      "text": null,
+      "image": "adset-hirelings-diaspora-small",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-358",
+      "numeric_id": 358,
+      "name": "River Roamers",
+      "text": null,
+      "image": "adset-hirelings-diaspora-big",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-359",
+      "numeric_id": 359,
+      "name": "Struggling Farmers",
+      "text": null,
+      "image": "adset-hirelings-farmer-small",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    },
+    {
+      "id": "ROOT-360",
+      "numeric_id": 360,
+      "name": "Prosperous Farmers",
+      "text": null,
+      "image": "adset-hirelings-farmer-big",
+      "suit": null,
+      "deck": null,
+      "craftable": false,
+      "category": "hireling",
+      "expansion": "Homeland Expansion",
+      "set": "Homeland Expansion",
+      "source_file": "homeland-hirelings",
+      "tags": [
+        "Hirelings"
+      ]
+    }
+  ]
+}
