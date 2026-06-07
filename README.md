@@ -1,4 +1,4 @@
-# Claude Projects setup for playing Root by Leader Games
+# Claude Projects setup for playing Root by Leder Games
 
 This repo contains scripts and files to help you setup a Project on claude.ai for learning and playing Root. It focuses on giving Claude access to the Law of Root, citing it in responses.
 
