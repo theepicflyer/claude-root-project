@@ -22,9 +22,7 @@ One JSON object per line. Every line is a self-contained rule node.
 - Roman-numeral sub-level: `9.2.9.III`
 - Letter sub-level under roman: `9.2.9.III.a`
 
-Numeric chapters `1`–`18` are the Law of Root's main chapters (`1` Golden Rules,
-`2` Key Concepts, `3` Victory, `4` Key Actions, `5` Setup, `6`–`18` the factions).
-Letter chapters are the appendices, named as on therootdatabase.com:
+Numeric chapters `1`–`18` are the Law of Root's main chapters (`1` Golden Rules, `2` Key Concepts, `3` Victory, `4` Key Actions, `5` Setup, `6`–`18` the factions). Letter chapters are the appendices, named as on therootdatabase.com:
 
 - `A.*` — Advanced Setup
 - `C.*` — Components
@@ -34,8 +32,7 @@ Letter chapters are the appendices, named as on therootdatabase.com:
 - `L.*` — Landmarks (only 2 nodes: `L.1.1`, `L.1.2` — the source chapter is that short)
 - `M.*` — Maps
 - `V.*` — Vagabonds
-- `B.*` — Rootbotics, not an appendix: a synthetic prefix for the Law of Rootbotics
-  (e.g., `B.11.1` Cogwheel Corvids section 11.1)
+- `B.*` — Rootbotics, not an appendix: a synthetic prefix for the Law of Rootbotics (e.g., `B.11.1` Cogwheel Corvids section 11.1)
 
 ## Grep examples
 
