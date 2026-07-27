@@ -11,8 +11,13 @@ uploaded-files/          # Files to upload as Claude.ai Project knowledge
 scrape_law.py            # Scraper — outputs to uploaded-files/root_law.jsonl
 build_cards.py           # Card builder — outputs to uploaded-files/root_cards.json
 vendor/cards/            # Pinned LederCards/cards submodule (card source data)
+.claude/skills/release/  # /release — cut a GitHub release + the "what to change" writeup
 pyproject.toml
 ```
+
+## Releasing
+
+Changes to `uploaded-files/` ship as GitHub releases. Run `/release` — the skill covers version bump, the required "What to change for existing setups" section, and publish/verify steps.
 
 ## Running
 
